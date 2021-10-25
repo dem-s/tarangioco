@@ -1,51 +1,114 @@
 [
+
+{
+"id": "0",
+"città": "Lodi",
+"foto": "",
+"wiki": "https://it.wikipedia.org/wiki/Lodi"
+},
+  
 {
 "id": "1",
-"text": "Milano",
-"author": "capoluogo della Lombardia ecc",
+"città": "Milano",
+"foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg/1920px-Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg",
 "wiki": "https://it.wikipedia.org/wiki/Milano"
 },
 
 {
 "id": "2",
-"text": "Canneto sull'Oglio",
-"author": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Canneto_sull%27Oglio-Piazza_Matteotti.jpg/1280px-Canneto_sull%27Oglio-Piazza_Matteotti.jpg",
+"città": "Bergamo",
+"foto": "",
+"wiki": "https://it.wikipedia.org/wiki/Bergamo"
+},
+  
+  {
+"id": "3",
+"città": "Como",
+"foto": "",
+"wiki": "https://it.wikipedia.org/wiki/Como"
+},
+  
+  {
+"id": "4",
+"città": "Cremona",
+"foto": "",
+"wiki": "https://it.wikipedia.org/wiki/Cremona"
+},
+  
+  {
+"id": "5",
+"città": "Lecco",
+"foto": "",
+"wiki": "https://it.wikipedia.org/wiki/Lecco"
+},
+  
+  {
+"id": "6",
+"città": "Mantova",
+"foto": "",
+"wiki": "https://it.wikipedia.org/wiki/Mantova"
+},
+  
+  {
+"id": "7",
+"città": "Monza",
+"foto": "",
+"wiki": "https://it.wikipedia.org/wiki/Monza"
+},
+  
+  {
+"id": "8",
+"città": "Pavia",
+"foto": "",
+"wiki": "https://it.wikipedia.org/wiki/Pavia"
+},
+  
+  {
+"id": "9",
+"città": "Sondrio",
+"foto": "",
+"wiki": "https://it.wikipedia.org/wiki/Sondrio"
+},
+  
+  {
+"id": "10",
+"città": "Varese",
+"author": "",
+"wiki": "https://it.wikipedia.org/wiki/Varese"
+},
+  
+  {
+"id": "11",
+"città": "Brescia",
+"foto": "",
+"wiki": "https://it.wikipedia.org/wiki/Brescia"
+},
+  
+  {
+"id": "12",
+"città": "Vigevano",
+"foto": "",
+"wiki": "https://it.wikipedia.org/wiki/Vigevano"
+},
+  
+  {
+"id": "13",
+"città": "Canneto sull'Oglio",
+"foto": "",
 "wiki": "https://it.wikipedia.org/wiki/Canneto_sull%27Oglio"
 },
-
-{
-"id": "3",
-"text": "Zone",
-"author": "Piramidi di terra",
-"wiki": "https://en.wikipedia.org/wiki/Henry_Ford"
+  
+  {
+"id": "14",
+"città": "Livigno",
+"foto": "",
+"wiki": "https://it.wikipedia.org/wiki/Livigno"
 },
-
-{
-"id": "4",
-"text": "San Cassiano",
-"author": "Penones",
-"wiki": "https://en.wikipedia.org/wiki/Italo_Calvino"
+  
+  {
+"id": "15",
+"città": "Magenta",
+"foto": "",
+"wiki": "Magenta"
 },
-
-{
-"id": "5",
-"text": "Monza",
-"author": "Bigger Parco",
-"wiki": "https://en.wikipedia.org/wiki/Joseph_Heller"
-},
-
-{
-"id": "6",
-"text": "Cremona",
-"author": "Torrone",
-"wiki": "https://en.wikipedia.org/wiki/Stephen_King"
-},
-
-{
-"id": "7",
-"text": "Tornado",
-"author": "tutti i giocatori si muovono in senso orario di una posizione",
-"wiki": "https://en.wikipedia.org/wiki/Hector_Berlioz"
-}
-
 ]
