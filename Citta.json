@@ -3,19 +3,25 @@
 {
 "id": "1",
 "text": "Milano",
-"wiki": "https://it.wikipedia.org/wiki/Milano"
+"wiki": "https://it.wikipedia.org/wiki/Milano",
+"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg/2560px-Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg"
+
 },
 
 {
 "id": "2",
 "text": "Bergamo",
-"wiki": "https://it.wikipedia.org/wiki/Bergamo"
+"wiki": "https://it.wikipedia.org/wiki/Bergamo",
+"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg/2560px-Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg"
+
 },
   
   {
 "id": "3",
 "text": "Como",
-"wiki": "https://it.wikipedia.org/wiki/Como"
+"wiki": "https://it.wikipedia.org/wiki/Como",
+"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg/2560px-Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg"
+
 },
   
   {
@@ -34,59 +40,5 @@
 "id": "6",
 "text": "Mantova",
 "wiki": "https://it.wikipedia.org/wiki/Mantova"
-},
-  
-  {
-"id": "7",
-"text": "Monza",
-"wiki": "https://it.wikipedia.org/wiki/Monza"
-},
-  
-  {
-"id": "8",
-"text": "Pavia",
-"wiki": "https://it.wikipedia.org/wiki/Pavia"
-},
-  
-  {
-"id": "9",
-"text": "Sondrio",
-"wiki": "https://it.wikipedia.org/wiki/Sondrio"
-},
-  
-  {
-"id": "10",
-"text": "Varese",
-"wiki": "https://it.wikipedia.org/wiki/Varese"
-},
-  
-  {
-"id": "11",
-"text": "Brescia",
-"wiki": "https://it.wikipedia.org/wiki/Brescia"
-},
-  
-  {
-"id": "12",
-"text": "Vigevano",
-"wiki": "https://it.wikipedia.org/wiki/Vigevano"
-},
-  
-  {
-"id": "13",
-"text": "Canneto sull'Oglio",
-"wiki": "https://it.wikipedia.org/wiki/Canneto_sull%27Oglio"
-},
-  
-  {
-"id": "14",
-"text": "Livigno",
-"wiki": "https://it.wikipedia.org/wiki/Livigno"
-},
-  
-  {
-"id": "15",
-"text": "Magenta",
-"wiki": "Magenta"
 }
 ]
