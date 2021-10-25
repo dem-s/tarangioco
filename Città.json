@@ -2,112 +2,112 @@
 
 {
 "id": "0",
-"città": "Lodi",
+"citta": "Lodi",
 "foto": "",
 "wiki": "https://it.wikipedia.org/wiki/Lodi"
 },
   
 {
 "id": "1",
-"città": "Milano",
+"citta": "Milano",
 "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg/1920px-Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg",
 "wiki": "https://it.wikipedia.org/wiki/Milano"
 },
 
 {
 "id": "2",
-"città": "Bergamo",
+"citta": "Bergamo",
 "foto": "",
 "wiki": "https://it.wikipedia.org/wiki/Bergamo"
 },
   
   {
 "id": "3",
-"città": "Como",
+"citta": "Como",
 "foto": "",
 "wiki": "https://it.wikipedia.org/wiki/Como"
 },
   
   {
 "id": "4",
-"città": "Cremona",
+"citta": "Cremona",
 "foto": "",
 "wiki": "https://it.wikipedia.org/wiki/Cremona"
 },
   
   {
 "id": "5",
-"città": "Lecco",
+"citta": "Lecco",
 "foto": "",
 "wiki": "https://it.wikipedia.org/wiki/Lecco"
 },
   
   {
 "id": "6",
-"città": "Mantova",
+"citta": "Mantova",
 "foto": "",
 "wiki": "https://it.wikipedia.org/wiki/Mantova"
 },
   
   {
 "id": "7",
-"città": "Monza",
+"citta": "Monza",
 "foto": "",
 "wiki": "https://it.wikipedia.org/wiki/Monza"
 },
   
   {
 "id": "8",
-"città": "Pavia",
+"citta": "Pavia",
 "foto": "",
 "wiki": "https://it.wikipedia.org/wiki/Pavia"
 },
   
   {
 "id": "9",
-"città": "Sondrio",
+"citta": "Sondrio",
 "foto": "",
 "wiki": "https://it.wikipedia.org/wiki/Sondrio"
 },
   
   {
 "id": "10",
-"città": "Varese",
+"citta": "Varese",
 "author": "",
 "wiki": "https://it.wikipedia.org/wiki/Varese"
 },
   
   {
 "id": "11",
-"città": "Brescia",
+"citta": "Brescia",
 "foto": "",
 "wiki": "https://it.wikipedia.org/wiki/Brescia"
 },
   
   {
 "id": "12",
-"città": "Vigevano",
+"citta": "Vigevano",
 "foto": "",
 "wiki": "https://it.wikipedia.org/wiki/Vigevano"
 },
   
   {
 "id": "13",
-"città": "Canneto sull'Oglio",
+"citta": "Canneto sull'Oglio",
 "foto": "",
 "wiki": "https://it.wikipedia.org/wiki/Canneto_sull%27Oglio"
 },
   
   {
 "id": "14",
-"città": "Livigno",
+"citta": "Livigno",
 "foto": "",
 "wiki": "https://it.wikipedia.org/wiki/Livigno"
 },
   
   {
 "id": "15",
-"città": "Magenta",
+"citta": "Magenta",
 "foto": "",
 "wiki": "Magenta"
 },
