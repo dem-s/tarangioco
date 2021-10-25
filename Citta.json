@@ -2,91 +2,91 @@
   
 {
 "id": "1",
-"citta": "Milano",
+"text": "Milano",
 "wiki": "https://it.wikipedia.org/wiki/Milano"
 },
 
 {
 "id": "2",
-"citta": "Bergamo",
+"text": "Bergamo",
 "wiki": "https://it.wikipedia.org/wiki/Bergamo"
 },
   
   {
 "id": "3",
-"citta": "Como",
+"text": "Como",
 "wiki": "https://it.wikipedia.org/wiki/Como"
 },
   
   {
 "id": "4",
-"citta": "Cremona",
+"text": "Cremona",
 "wiki": "https://it.wikipedia.org/wiki/Cremona"
 },
   
   {
 "id": "5",
-"citta": "Lecco",
+"text": "Lecco",
 "wiki": "https://it.wikipedia.org/wiki/Lecco"
 },
   
   {
 "id": "6",
-"citta": "Mantova",
+"text": "Mantova",
 "wiki": "https://it.wikipedia.org/wiki/Mantova"
 },
   
   {
 "id": "7",
-"citta": "Monza",
+"text": "Monza",
 "wiki": "https://it.wikipedia.org/wiki/Monza"
 },
   
   {
 "id": "8",
-"citta": "Pavia",
+"text": "Pavia",
 "wiki": "https://it.wikipedia.org/wiki/Pavia"
 },
   
   {
 "id": "9",
-"citta": "Sondrio",
+"text": "Sondrio",
 "wiki": "https://it.wikipedia.org/wiki/Sondrio"
 },
   
   {
 "id": "10",
-"citta": "Varese",
+"text": "Varese",
 "wiki": "https://it.wikipedia.org/wiki/Varese"
 },
   
   {
 "id": "11",
-"citta": "Brescia",
+"text": "Brescia",
 "wiki": "https://it.wikipedia.org/wiki/Brescia"
 },
   
   {
 "id": "12",
-"citta": "Vigevano",
+"text": "Vigevano",
 "wiki": "https://it.wikipedia.org/wiki/Vigevano"
 },
   
   {
 "id": "13",
-"citta": "Canneto sull'Oglio",
+"text": "Canneto sull'Oglio",
 "wiki": "https://it.wikipedia.org/wiki/Canneto_sull%27Oglio"
 },
   
   {
 "id": "14",
-"citta": "Livigno",
+"text": "Livigno",
 "wiki": "https://it.wikipedia.org/wiki/Livigno"
 },
   
   {
 "id": "15",
-"citta": "Magenta",
+"text": "Magenta",
 "wiki": "Magenta"
 }
 ]
