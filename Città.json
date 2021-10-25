@@ -3,112 +3,96 @@
 {
 "id": "0",
 "citta": "Lodi",
-"foto": "",
 "wiki": "https://it.wikipedia.org/wiki/Lodi"
 },
   
 {
 "id": "1",
 "citta": "Milano",
-"foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg/1920px-Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg",
 "wiki": "https://it.wikipedia.org/wiki/Milano"
 },
 
 {
 "id": "2",
 "citta": "Bergamo",
-"foto": "",
 "wiki": "https://it.wikipedia.org/wiki/Bergamo"
 },
   
   {
 "id": "3",
 "citta": "Como",
-"foto": "",
 "wiki": "https://it.wikipedia.org/wiki/Como"
 },
   
   {
 "id": "4",
 "citta": "Cremona",
-"foto": "",
 "wiki": "https://it.wikipedia.org/wiki/Cremona"
 },
   
   {
 "id": "5",
 "citta": "Lecco",
-"foto": "",
 "wiki": "https://it.wikipedia.org/wiki/Lecco"
 },
   
   {
 "id": "6",
 "citta": "Mantova",
-"foto": "",
 "wiki": "https://it.wikipedia.org/wiki/Mantova"
 },
   
   {
 "id": "7",
 "citta": "Monza",
-"foto": "",
 "wiki": "https://it.wikipedia.org/wiki/Monza"
 },
   
   {
 "id": "8",
 "citta": "Pavia",
-"foto": "",
 "wiki": "https://it.wikipedia.org/wiki/Pavia"
 },
   
   {
 "id": "9",
 "citta": "Sondrio",
-"foto": "",
 "wiki": "https://it.wikipedia.org/wiki/Sondrio"
 },
   
   {
 "id": "10",
 "citta": "Varese",
-"author": "",
 "wiki": "https://it.wikipedia.org/wiki/Varese"
 },
   
   {
 "id": "11",
 "citta": "Brescia",
-"foto": "",
 "wiki": "https://it.wikipedia.org/wiki/Brescia"
 },
   
   {
 "id": "12",
 "citta": "Vigevano",
-"foto": "",
 "wiki": "https://it.wikipedia.org/wiki/Vigevano"
 },
   
   {
 "id": "13",
 "citta": "Canneto sull'Oglio",
-"foto": "",
 "wiki": "https://it.wikipedia.org/wiki/Canneto_sull%27Oglio"
 },
   
   {
 "id": "14",
 "citta": "Livigno",
-"foto": "",
 "wiki": "https://it.wikipedia.org/wiki/Livigno"
 },
   
   {
 "id": "15",
 "citta": "Magenta",
-"foto": "",
 "wiki": "Magenta"
-},
+}
 ]
