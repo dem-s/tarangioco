@@ -3,13 +3,15 @@
 {
 "id": "1",
 "text": "Milano",
-"wiki": "https://it.wikipedia.org/wiki/Milano"
+"wiki": "https://it.wikipedia.org/wiki/Milano",
+ "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg/2560px-Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg"
 },
 
 {
 "id": "2",
 "text": "Bergamo",
-"wiki": "https://it.wikipedia.org/wiki/Bergamo"
+"wiki": "https://it.wikipedia.org/wiki/Bergamo",
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg/2560px-Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg"
 },
   
   {
