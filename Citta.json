@@ -27,18 +27,262 @@
   {
 "id": "4",
 "text": "Cremona",
-"wiki": "https://it.wikipedia.org/wiki/Cremona"
+"wiki": "https://it.wikipedia.org/wiki/Cremona",
+"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg/2560px-Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg"
+
 },
   
   {
 "id": "5",
 "text": "Lecco",
-"wiki": "https://it.wikipedia.org/wiki/Lecco"
+"wiki": "https://it.wikipedia.org/wiki/Lecco",
+"img": ""
+
 },
   
   {
 "id": "6",
 "text": "Mantova",
-"wiki": "https://it.wikipedia.org/wiki/Mantova"
+"wiki": "https://it.wikipedia.org/wiki/Mantova",
+"img": ""
+},
+
+{"id": "7",
+"text": "TORNADO",
+"wiki": "",
+"img": ""
+
+},
+
+{
+"id": "8",
+"text": "",
+"wiki": "",
+"img": ""
+
+},
+  
+  {
+"id": "9",
+"text": "",
+"wiki": "",
+"img": ""
+
+},
+  
+  {
+"id": "10",
+"text": "",
+"wiki": "",
+"img": ""
+},
+  
+  {
+"id": "11",
+"text": "",
+"wiki": "",
+"img": ""
+},
+  
+  {
+"id": "12",
+"text": "",
+"wiki": "",
+"img": ""
+},
+
+{"id": "13",
+"text": "",
+"wiki": "",
+"img": ""
+},
+
+{
+"id": "14",
+"text": "",
+"wiki": "",
+"img": ""
+},
+  
+  {
+"id": "15",
+"text": "",
+"wiki": "",
+"img": ""
+},
+  
+  {
+"id": "16",
+"text": "",
+"wiki": "",
+"img": ""
+},
+  
+  {
+"id": "17",
+"text": "",
+"wiki": "",
+"img": ""
+},
+  
+  {
+"id": "18",
+"text": "",
+"wiki": "",
+"img": ""
+},
+
+{
+"id": "19",
+"text": "",
+"wiki": "",
+"img": ""
+},
+
+{
+"id": "20",
+"text": "",
+"wiki": "",
+"img": ""
+},
+  
+  {
+"id": "21",
+"text": "",
+"wiki": "",
+"img": ""
+},
+  
+  {
+"id": "22",
+"text": "",
+"wiki": "",
+"img": ""
+},
+  
+  {
+"id": "23",
+"text": "",
+"wiki": "",
+"img": ""
+},
+  
+  {
+"id": "24",
+"text": "",
+"wiki": "",
+"img": ""
+},
+
+{"id": "25",
+"text": "",
+"wiki": "",
+"img": ""
+},
+
+{
+"id": "26",
+"text": "",
+"wiki": "",
+"img": ""
+},
+  
+  {
+"id": "27",
+"text": "",
+"wiki": "",
+"img": ""
+},
+  
+  {
+"id": "28",
+"text": "",
+"wiki": "",
+"img": ""
+},
+  
+  {
+"id": "29",
+"text": "",
+"wiki": "",
+"img": ""
+},
+  
+  {
+"id": "30",
+"text": "",
+"wiki": "",
+"img": ""
+},
+
+{"id": "31",
+"text": "",
+"wiki": "",
+"img": ""
+},
+
+{
+"id": "32",
+"text": "",
+"wiki": "",
+"img": ""
+},
+  
+  {
+"id": "33",
+"text": "",
+"wiki": "",
+"img": ""
+},
+  
+  {
+"id": "34",
+"text": "",
+"wiki": "",
+"img": ""
+},
+  
+  {
+"id": "35",
+"text": "",
+"wiki": "",
+"img": ""
+},
+  
+  {
+"id": "36",
+"text": "",
+"wiki": "",
+"img": ""
+},
+
+  {
+"id": "37",
+"text": "Como",
+"text": "",
+"wiki": "",
+"img": ""
+},
+  
+  {
+"id": "38",
+"text": "",
+"wiki": "",
+"img": ""
+},
+  
+  {
+"id": "39",
+"text": "",
+"wiki": "",
+"img": ""
+},
+  
+  {
+"id": "40",
+"text": "",
+"wiki": "",
+"img": ""
 }
+
 ]
