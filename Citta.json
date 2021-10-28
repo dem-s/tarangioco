@@ -5,22 +5,23 @@
 "text": "Milano",
 "wiki": "https://it.wikipedia.org/wiki/Milano",
 "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg/2560px-Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg"
-
+"des": "Secondo comune in Italia per popolazione, capoluogo della regione Lombardia e dell'omonima città metropolitana, è centro di una delle più popolose aree metropolitane d'Europa."
 },
 
 {
 "id": "2",
 "text": "Bergamo",
 "wiki": "https://it.wikipedia.org/wiki/Bergamo",
-"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg/2560px-Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg"
-
+"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg/2560px-Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg",
+"des": ""
 },
   
   {
 "id": "3",
 "text": "Como",
 "wiki": "https://it.wikipedia.org/wiki/Como",
-"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg/2560px-Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg"
+"img": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Como_and_its_lake.jpg",
+"des": ""
 
 },
   
@@ -28,7 +29,8 @@
 "id": "4",
 "text": "Cremona",
 "wiki": "https://it.wikipedia.org/wiki/Cremona",
-"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg/2560px-Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg"
+"img": "https://upload.wikimedia.org/wikipedia/commons/f/fd/26100_Cremona%2C_Province_of_Cremona%2C_Italy_-_panoramio_%286%29.jpg",
+"des": ""
 
 },
   
@@ -36,29 +38,31 @@
 "id": "5",
 "text": "Lecco",
 "wiki": "https://it.wikipedia.org/wiki/Lecco",
-"img": ""
-
+"img": "",
+"des": ""
 },
   
   {
 "id": "6",
 "text": "Mantova",
 "wiki": "https://it.wikipedia.org/wiki/Mantova",
-"img": ""
+"img": "",
+    "des": ""
 },
 
 {"id": "7",
 "text": "TORNADO",
 "wiki": "",
-"img": ""
-
+"img": "",
+"des": ""
 },
 
 {
 "id": "8",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+  "des": ""
 
 },
   
@@ -66,7 +70,8 @@
 "id": "9",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+    "des": ""
 
 },
   
@@ -74,215 +79,246 @@
 "id": "10",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+    "des": ""
 },
   
   {
 "id": "11",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+    "des": ""
 },
   
   {
 "id": "12",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+    "des": ""
 },
 
 {"id": "13",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+ "des": ""
 },
 
 {
 "id": "14",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+  "des": ""
 },
   
   {
 "id": "15",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+    "des": ""
 },
   
   {
 "id": "16",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+    "des": ""
 },
   
   {
 "id": "17",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+    "des": ""
 },
   
   {
 "id": "18",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+    "des": ""
 },
 
 {
 "id": "19",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+  "des": ""
 },
 
 {
 "id": "20",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+  "des": ""
 },
   
   {
 "id": "21",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+    "des": ""
 },
   
   {
 "id": "22",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+    "des": ""
 },
   
   {
 "id": "23",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+    "des": ""
 },
   
   {
 "id": "24",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+    "des": ""
 },
 
 {"id": "25",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+ "des": ""
 },
 
 {
 "id": "26",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+  "des": ""
 },
   
   {
 "id": "27",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+    "des": ""
 },
   
   {
 "id": "28",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+    "des": ""
 },
   
   {
 "id": "29",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+    "des": ""
 },
   
   {
 "id": "30",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+    "des": ""
 },
 
 {"id": "31",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+ "des": ""
 },
 
 {
 "id": "32",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+  "des": ""
 },
   
   {
 "id": "33",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+    "des": ""
 },
   
   {
 "id": "34",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+    "des": ""
 },
   
   {
 "id": "35",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+    "des": ""
 },
   
   {
 "id": "36",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+    "des": ""
 },
 
   {
 "id": "37",
-"text": "Como",
+"text": "Vigevano",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+    "des": ""
 },
   
   {
 "id": "38",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+    "des": ""
 },
   
   {
 "id": "39",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+    "des": ""
 },
   
   {
 "id": "40",
 "text": "",
 "wiki": "",
-"img": ""
+"img": "",
+    "des": ""
 }
 
 ]
