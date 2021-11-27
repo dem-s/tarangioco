@@ -1,0 +1,34 @@
+domande = [
+  {
+citta: "nome città",
+domanda: "Testo domanda",
+    risposte: {
+      a: "risposta 1",
+      b: "risposta 2",
+      c: "risposta 3"
+    },
+    rispostaCorretta: "c"
+  },
+  
+{
+citta: "nome città",    
+domanda: "Testo domanda",
+    risposte: {
+      a: "risposta 1",
+      b: "risposta 2",
+      c: "risposta 3"
+    },
+    rispostaCorretta: "c"
+  },
+
+citta: "nome città",    
+domanda: "Testo domanda",
+    risposte: {
+      a: "risposta 1",
+      b: "risposta 2",
+      c: "risposta 3"
+    },
+    rispostaCorretta: "c"
+  }
+
+];
