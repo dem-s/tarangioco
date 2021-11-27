@@ -1,4 +1,4 @@
-domande = [
+[
   {
 citta: "nome città",
 domanda: "Testo domanda",
