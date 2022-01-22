@@ -2,7 +2,6 @@
   {
 "citta": "Bellagio",
 "domande" : 
-  [
     {
     "domanda": "Vicino a Bellagio, si trova Fiumelatte, un fiume misterioso che per le sue caratteristiche ha attirato l’attenzione di Leonardo da Vinci che lo descrisse nel Codice Atlantico. Fu definito “il fiume più breve d’Italia” perché prima di sfociare nel Lago percorre solamente 250 m. Fiumelatte rimane un fiume unico e viene anche chiamato “fiume fantasma” – perché?",
     "A": "Appare e scompare a cadenze stagionali.",
@@ -53,13 +52,11 @@
     "C": "Per il ciclismo",
     "rispostaCorretta": "a"
   }
-    ]
   },
 
 {
 "citta": "",
 "domande" : 
-  [
     {
     "domanda": "",
     "A": "",
@@ -110,7 +107,6 @@
     "C": "",
     "rispostaCorretta": "A"
   },
-    ]
   }
     
 
