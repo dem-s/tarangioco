@@ -1,0 +1,52 @@
+[
+    {
+    "domanda": "Vicino a Bellagio, si trova Fiumelatte, un fiume misterioso che per le sue caratteristiche ha attirato l’attenzione di Leonardo da Vinci che lo descrisse nel Codice Atlantico. Fu definito “il fiume più breve d’Italia” perché prima di sfociare nel Lago percorre solamente 250 m. Fiumelatte rimane un fiume unico e viene anche chiamato “fiume fantasma” – perché?",
+    "A": "Appare e scompare a cadenze stagionali.",
+    "B": "Le leggende narrano della presenza di uno spirito nascosto nelle grotte vicine.",
+    "C": "È nascosto tra la vegetazione e non è facile da trovare.",
+    "rispostaCorretta": "A"
+  },
+  {
+    "domanda": "A Bellagio, nel Santuario di Colle Gallo c’è una statua dedicata ad uno sport molto praticato su queste strade. Quale?",
+    "A": "Parapendio.",
+      "B": "Surf.",
+      "C": "Ciclismo.",
+    "rispostaCorretta": "C"
+  },
+    {
+    "domanda": "Bellagio è uno dei vertici del famoso “Triangolo lariano”: quali sono gli altri due comuni che lo compongono?",
+    "A": "Como e Lecco.",
+    "B": "Varenna e menaggio.",
+    "C": "Como e Lugano.",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "Bellagio, perla del Lago di Lecco/Como, è stata spesso luogo di riprese cinematografiche di grandi registi: in quale di questi film possiamo vedere Robert De Niro che cammina sul suo suggestivo lungolago?",
+    "A": "C'era una volta in America.",
+      "B": "Taxi Driver.",
+      "C": "007.",
+    "rispostaCorretta": "a"
+  },
+  {
+    "domanda": "Poco sfruttato nei fiumi lombardi, il turismo delle acque dolci è invece molto più attivo nel paesaggio lacustre, a partire dalla metà dell’Ottocento, infatti, ha attirato numerosi viaggiatori. <br> Bellagio è collegata a Varenna, Menaggio, Cadenabbia e molti altri paesi da quale mezzo di trasporto?",
+    "A": "Battello.",
+    "B": "Servizio gratuito di canoe.",
+    "C": "Crociera a dorso di drago.",
+    "rispostaCorretta": "a"
+  },
+  
+  {
+    "domanda": "Cos’è il Giro d’Italia?",
+    "A": "Una gara ciclistica a tappe.",
+    "B": "Un giro turistico delle Regioni.",
+    "C": "Un giro turistico a dorso di drago.",
+    "rispostaCorretta": "a"
+  },
+  {
+    "domanda": "Per cosa è famosa Bellagio?",
+    "A": "Per la sua posizione a centro lago.",
+    "B": "Per le sue trote.",
+    "C": "Per il ciclismo",
+    "rispostaCorretta": "a"
+  }
+    ]
