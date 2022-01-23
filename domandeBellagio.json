@@ -25,14 +25,14 @@
     "A": "C'era una volta in America.",
       "B": "Taxi Driver.",
       "C": "007.",
-    "rispostaCorretta": "a"
+    "rispostaCorretta": "A"
   },
   {
     "domanda": "Poco sfruttato nei fiumi lombardi, il turismo delle acque dolci è invece molto più attivo nel paesaggio lacustre, a partire dalla metà dell’Ottocento, infatti, ha attirato numerosi viaggiatori. <br> Bellagio è collegata a Varenna, Menaggio, Cadenabbia e molti altri paesi da quale mezzo di trasporto?",
     "A": "Battello.",
     "B": "Servizio gratuito di canoe.",
     "C": "Crociera a dorso di drago.",
-    "rispostaCorretta": "a"
+    "rispostaCorretta": "A"
   },
   
   {
@@ -40,13 +40,13 @@
     "A": "Una gara ciclistica a tappe.",
     "B": "Un giro turistico delle Regioni.",
     "C": "Un giro turistico a dorso di drago.",
-    "rispostaCorretta": "a"
+    "rispostaCorretta": "A"
   },
   {
     "domanda": "Per cosa è famosa Bellagio?",
     "A": "Per la sua posizione a centro lago.",
     "B": "Per le sue trote.",
     "C": "Per il ciclismo",
-    "rispostaCorretta": "a"
+    "rispostaCorretta": "A"
   }
     ]
