@@ -1,0 +1,38 @@
+  [
+    {
+    "domanda": "Si può attraversarlo a piedi, ma anche in auto, anche se è fatto solo di barche. Di cosa si tratta?",
+    "A": "Di un viottolo in mezzo a un bosco",
+    "B": "Di un ponte",
+    "C": "Del campo di calcio della ASD Bereguardo",
+    "rispostaCorretta": "B",
+    "curiosita": "il famoso ponte di barche di Bereguardo è uno degli ultimi esempi di ponte di chiatte in Italia. Costruito come opera provvisoria alla fine dell’Ottocento con barche di legno, è sopravvissuto alle due guerre mondiali ma le barche originali sono state sostituite."
+  },
+  {
+    "domanda": "Cosa accade a questo ponte particolare quando cambia la portata del fiume?",
+    "A": "Quando si abbassa il livello dell’acqua, si scorge sul fondo, in prossimità delle barche, la figura di un drago",
+    "B": "Le barche si colorano di rosso",
+    "C": "Si muove con il livello dell’acqua. Quando il livello si alza si alzano anche le barche e viceversa",
+    "rispostaCorretta": "C"
+  },
+   {
+    "domanda": "Su quale fiume galleggia il ponte, permettendo così alle auto di attraversarlo?",
+    "A": "Po",
+    "B": "Ticino",
+    "C": "Adda",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "Come tanti borghi lombardi, si sviluppò a partire da un grande castello: a quale famiglia nobile italiana, il cui nome è indissolubilmente legato a quello di Tarantasio, appartiene?",
+    "A": "Sforza",
+    "B": "Scala",
+    "C": "Visconti",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "Da Bereguardo passa il Naviglio omonimo costruito due secoli fa per collegare Milano al mare. Oggi è possibile costeggiare questo canale percorrendo quale tipo di infrastruttura?",
+    "A": "Un'autostrada",
+    "B": "Una ciclabile",
+    "C": "Un canale",
+    "rispostaCorretta": "B"
+  }
+]
