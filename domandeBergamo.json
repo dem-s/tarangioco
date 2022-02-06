@@ -1,0 +1,40 @@
+  [
+    {
+    "domanda": "La sua parte più antica è circondata da mura ed è situata su una collina. Come viene chiamata?
+",
+    "A": "Bergamo Alta",
+    "B": "Non ha nome",
+    "C": "Bergamotto",
+    "rispostaCorretta": "A"
+  },
+  {
+    "domanda": "Qual è il piatto tradizionale che non mancava mai nelle case contadine bergamasche?",
+    "A": "Pesce arrosto",
+    "B": "Drago cotto",
+    "C": "Polenta e osei (uccellini)",
+    "rispostaCorretta": "C"
+  },
+   {
+    "domanda": "All’ingresso di Bergamo, sotto al nome della città si legge: “città dei Mille”. Viene definita così per l’alto numero di volontari e in generale per il grande contributo che la città diede alle lotte risorgimentali. Chi le regalò questo soprannome?",
+    "A": "San Giuseppe",
+    "B": "Giuseppe Garibaldi",
+    "C": "Michelangelo",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "Il giornale più stampato e letto della provincia ha un nome che in montagna “ritorna” spesso: quale?",
+    "A": "La Vetta di Bergamo",
+    "B": "L’Eco di Bergamo",
+    "C": "L'Aquila di Bergamo",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "Oltre che di esseri umani, possibilmente giovani, Tarantasio è ghiotto di gelato! A Bergamo è nato uno dei gusti più famosi. Sai dire quale?
+",
+    "A": "La stracciatella",
+    "B": "Il puffo",
+    "C": "Il pistacchio",
+    "rispostaCorretta": "A",
+    "curiosita": "Fu Enrico Panattoni a inventarlo nel 1961. Durante il processo di mantecazione del fiordilatte, inserì una dose di cioccolato fondente caldo che a contatto con il freddo dell’impasto si solidificò e poi si “stracciò” grazie allo sbattimento delle pale."
+  }
+]
