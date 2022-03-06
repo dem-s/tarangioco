@@ -1,0 +1,30 @@
+[
+    {
+      "domanda": "In che ambiente naturale si trova?",
+      "A": "Mare",
+      "B": "Collina",
+      "C": "Montagna",
+      "rispostaCorretta": "C"
+    },
+    {
+      "domanda": "Come si chiamava il popolo che abitava la zona nella preistoria",
+      "A": "Indiani Cherokees",
+      "B". "Popolo Slavo",
+      "C": "Popolo Camuno",
+      "rispostaCorretta": "C"
+    },
+    {
+      "domanda": "Cosa incise l’antico popolo camuno sulle grosse pietre di Breno?",
+      "A": "Disegni rupestri",
+      "B". "Affreschi",
+      "C": "Murales",
+      "rispostaCorretta": "A"
+    },
+    {
+      "domanda": "Breno è stata scelta, per secoli, come capitale amministrativa di quale valle lombarda?",
+      "A": "Valcamonica",
+      "B": "Valle dei Draghi",
+      "C": "Val Seriosa",
+      "rispostaCorretta": "A"
+    }
+  ]
