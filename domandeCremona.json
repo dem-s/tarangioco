@@ -1,0 +1,40 @@
+[
+  {
+    "domanda": "Sul Torrazzo, la torre principale di questa città, è incastonato uno degli orologi astronomici più grandi del mondo. Che diametro ha il suo quadrante?",
+    "A": "8 metri e 20 centimetri",
+    "B": "120 metri",
+    "C": "1 metro e 10 centimetri",
+    "rispostaCorretta": "A"
+  },
+  
+  {
+    "domanda": "Quel golosone di Tarantasio vuole sapere da voi quale dolce tipico si produce a Cremona?",
+    "A": "Il torrone",
+    "B": "Il babà al rum",
+    "C": "Il cannolo siciliano",
+    "rispostaCorretta": "A"
+  },
+  
+  {
+    "domanda": "È il simbolo della città e anche la torre più alta d’Italia. Come si chiama?",
+    "A": "Torrone",
+    "B": "Torrazzo",
+    "C": "Torre di Pisa",
+    "rispostaCorretta": "B"
+  },
+  
+  {
+    "domanda": "Cremona è conosciuta nel mondo musicale della liuteria per la produzione di quale tra questi strumenti?",
+    "A": "Triangoli",
+    "B": "Violini",
+    "C": "Balalaike",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "Su quale fiume si adagia la città di Cremona?",
+    "A": "Adda",
+    "B": "Oglio",
+    "C": "Po",
+    "rispostaCorretta": "C"
+  }
+]
