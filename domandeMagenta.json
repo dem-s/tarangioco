@@ -1,0 +1,41 @@
+[
+  {
+    "domanda": "Il 4 giugno 1859, durante la seconda guerra di indipendenza italiana, Magenta fu teatro di un evento diventato celebre. Di cosa si tratta?",
+    "A": "Di una partita a calcetto",
+    "B": "Di una battaglia",
+    "C": "Di una scoperta archeologica",
+    "rispostaCorretta": "B"
+  },
+  
+  {
+    "domanda": "Qual è il nome del generale che comandò le truppe francesi e italiane durante la famosa battaglia di Magenta?",
+    "A": "Mc Donald's",
+    "B": "Mc Cartney",
+    "C": "Mac Mahon",
+    "rispostaCorretta": "C"
+  },
+  
+  {
+    "domanda": "Da Magenta partono molte passeggiate e sul vicino fiume si estende una riserva faunistica naturale. Come si chiama questo parco?",
+    "A": "Parco del Po",
+    "B": "Parco del Ticino",
+    "C": "Parco della Gerundia",
+    "rispostaCorretta": "B"
+  },
+  
+  {
+    "domanda": "Ogni anno, il comune di Magenta, ricorda la famosa battaglia con una celebrazione a cui partecipano migliaia di persone che arrivano da tutta Europa. Di cosa si tratta?",
+    "A": "Di una rievocazione storica",
+    "B": "Di un pranzo di beneficenza",
+    "C": "Di una messa, in onore dei caduti, della durata di 6 ore",
+    "rispostaCorretta": "A",
+    "curiosita": "Si tratta di una rievocazione storica, un evento animato dal desiderio di rinsaldare l’identità nazionale e, soprattutto, quella europea sottolineando le forti radici comuni che uniscono i popoli che durante il Risorgimento si fronteggiarono"
+  },
+  {
+    "domanda": "Chi sono i “Draghi di Magenta”?",
+    "A": "a squadra di calcio storico fiorentino",
+    "B": "I componenti di un’accademia di scacchi",
+    "C": "Un gruppo di idraulici che si occupano della rete fognaria della città",
+    "rispostaCorretta": "B"
+  }
+]
