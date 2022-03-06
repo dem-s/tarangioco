@@ -1,0 +1,30 @@
+[
+  {
+    "domanda": "È l’unica città lombarda con importanti siti che risalgono ad un famoso impero, quale?",
+    "A": "Impero Persiano",
+    "B": "Impero Austroungarico",
+    "C": "Impero Romano",
+    "rispostaCorretta": "A"
+  },
+  {
+     "domanda": "Qui si mangia un famoso primo piatto…..fatto male! Di cosa si tratta?",
+    "A": "Tortellini malfatti",
+    "B": "Spaghetti dritti",
+    "C": "Biscotti Tarantasici",
+    "rispostaCorretta": "A"
+  },
+  {
+    "domanda": "Nel territorio circostante si coltivano vigneti per calici spumeggianti…Come si chiama questa zona vinicola?",
+    "A": "Champagne",
+    "B": "Sparabott",
+    "C": "Franciacorta",
+    "rispostaCorretta": "C"
+  },
+  {
+    "domanda": "Com’è stata soprannominata Brescia, grazie al suo supporto politico alla Repubblica di Venezia?",
+    "A": "La Leonessa",
+    "B": "La Draghessa",
+    "C": "La Fedelissima",
+    "rispostaCorretta": "A"
+  }
+ ]
