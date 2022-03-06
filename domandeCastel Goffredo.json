@@ -1,0 +1,22 @@
+[
+  {
+    "domanda": "A Castel Goffredo, nelle famose industrie di calzetteria, si produce un particolare tipo di abbigliamento, quale?",
+    "A": "Scarponi di pelle di drago",
+    "B": "Calze",
+    "C": "Calzoni",
+    "rispostaCorretta": "B"
+  }, {
+    "domanda": "Chi erano i Signori di Mantova cui la storia di Castel Goffredo è particolarmente legata?",
+    "A": "I Visconti",
+    "B": "I Saraceni",
+    "C": "I Gonzaga",
+    "rispostaCorretta": "C"
+  },
+   {
+    "domanda": "Castel Goffredo è stato un comune molto attivo politicamente nella fase che precedette l’Unità d’Italia. Di che periodo storico stiamo parlando?",
+    "A": "Il Medioevo",
+    "B": "Il Paleolitico",
+    "C": "Il Risorgimento (1800)",
+    "rispostaCorretta": "C"
+  }
+]
