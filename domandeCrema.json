@@ -1,0 +1,27 @@
+[
+  {
+    "domanda": "Dal suo nome puoi capire perché è famosa…",
+    "A": "Crema da barba",
+    "B": "Torte salate",
+    "C": "Pasticcini ripieni",
+    "rispostaCorretta": "C"
+  },
+   "domanda": "Crema fu edificata tra il 400 e il 600 d.C sulla Fulcheria: di che cosa si tratta?",
+    "A": "Una piccola collina dotata di un clima mite",
+    "B": "Una roccia vulcanica molto resistente",
+    "C": "Un’isola all’interno delle paludi del vecchio Lago Gerundo",
+    "rispostaCorretta": "C"
+  },
+"domanda": "Da secoli Crema ha una tradizione organaria e campanaria, cosa si costruisce?",
+    "A": "Chitarre e liuti",
+    "B": "Violini e viole",
+    "C": "Organi e campane",
+    "rispostaCorretta": "C"
+  },
+"domanda": "Come si chiamano gli abitanti di Crema?",
+    "A": "Tarantini",
+    "B": "Cremaschi",
+    "C": "Cremini",
+    "rispostaCorretta": "C"
+  }
+]
