@@ -1,0 +1,40 @@
+[
+  {
+    "domanda": "Cosa forma il fiume Mincio attorno alla città di Mantova?",
+    "A": "3 laghi",
+    "B": "7 torrenti",
+    "C": "2 cascate",
+    "rispostaCorretta": "A"
+  },
+  
+  {
+    "domanda": "Il fiume di Mantova è una ricca riserva naturale, sai dire il suo nome?",
+    "A": "Riserva Naturale del Mincio",
+    "B": "Riserva Naturale del Gerundo",
+    "C": "Riserva Naturale del Po",
+    "rispostaCorretta": "A"
+  },
+  {
+    "domanda": "Mantova, nel Rinascimento, è stata governata da una grande famiglia di Signori. Sai dire di chi si tratta?",
+    "A": "I Tarantasi",
+    "B": "I Gonzaga",
+    "C": "I Savoia",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "Il “salotto” di Mantova è costituito da Piazza delle Erbe. Sai dire perché questa piazza ha questo nome?",
+    "A": "Perché la pavimentazione è in erba sintetica",
+    "B": "Perché nei ristoranti della piazza servono solo verdura",
+    "C": "Perché è il luogo dove si trovava la piazza del mercato",
+    "rispostaCorretta": "C",
+    "curiosita": "Piazza delle erbe è l’antico luogo deputato alla vendita di frutta e verdura (le “erbe” appunto) e sede di altre attività commerciali."
+  },
+  {
+    "domanda": "La zona intorno a Mantova, come d’altronde gran parte della pianura Padana, è ricca di risaie. Le mondine mantovane intonavano spesso canti di lavoro, non solo nelle pause ma anche durante le ore più faticose. Il canto era talvolta incitato dai padroni e dai sorveglianti, perché?",
+    "A": "Per scacciare i draghi nascosti tra le coltivazioni",
+    "B": "Per evitare che le mondine si distraessero o partecipassero a movimenti di protesta",
+    "C": "Per creare armonia all’interno del gruppo di lavoro",
+    "rispostaCorretta": "B"
+
+  }
+]
