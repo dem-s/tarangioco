@@ -4,8 +4,7 @@
     "A": "Davide Van De Sfroos",
     "B": "Freddie Mercury",
     "C": "Clementino",
-    "rispostaCorretta": "A",
-    "curiosita": "Davide Van De Sfroos, pseudonimo di Davide Enrico Bernasconi (Monza, 11 maggio 1965), è un cantautore, chitarrista e scrittore italiano. Lo pseudonimo Van De Sfroos restituisce foneticamente in lingua lombarda l'espressione [essi] vanno di frodo, vanno di contrabbando"
+    "rispostaCorretta": "A"
   },
   
   {
@@ -23,7 +22,8 @@
     "C": "Lario",
     "rispostaCorretta": "C"
   },
-   {
+   
+  {
     "domanda": "Qual è il nome dato al presunto Lariosauro avvistato nelle acque del lago?",
     "A": "Nessie",
     "B": "Larry",
