@@ -1,0 +1,30 @@
+[
+  {
+    "domanda": "Che cosa sono gli asparagi?",
+    "A": "Cereali",
+    "B": "Legumi",
+    "C": "Verdure",
+    "rispostaCorretta": "C"
+  },
+  {
+    "domanda": "Qui si coltivano degli asparagi di un colore molto particolare, quale?",
+    "A": "Verdi",
+    "B": "Rosa",
+    "C": "Bianchi",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "Come viene definita la tipica festa paesana che si svolge dopo la raccolta degli asparagi, in cui si possono assaggiare i piatti tipici del luogo?",
+    "A": "Festa",
+    "B": "Sagra",
+    "C": "Festival",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "  Cilavegna è un piccolo comune della Lombardia che confina con un’altra regione italiana, quale?",
+    "A": "Basilicata",
+    "B": "Piemonte",
+    "C": "Sardegna",
+    "rispostaCorretta": "B"
+  }
+]
