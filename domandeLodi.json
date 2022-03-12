@@ -1,9 +1,149 @@
 [
   {
-    "domanda": "A",
-    "A": "A",
-    "B": "B",
-    "C": "C",
+    "domanda": "Il lago Gerundo abbracciava un vasto territorio paludoso tra i fiumi Adda e Serio. Quando si è formato?",
+    "A": "Con il ritiro dei ghiacciai dalla Valle Padana",
+    "B": "Nel Rinascimento",
+    "C": "Ai giorni nostri",
+    "rispostaCorretta": "A"
+  },
+  {
+    "domanda": "Tra gli antichi abitanti della zona circostante il lago Gerundo si era diffusa una credenza che riguardava per l’appunto la zona paludosa, maleodorante e perennemente coperta di nebbia. Cosa narrava questa leggenda?",
+    "A": "Narrava di una strega dalla lingua biforcuta che il 6 gennaio di ogni anno diventava una gentile vecchietta.",
+    "B": "Narrava l’esistenza di un drago che creava nebbie malefiche e faceva apparire immense paludi.",
+    "C": "Narrava di dinosauri riportati in vita da scienziati pazzi.",
     "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "Secondo la leggenda dove si crede sia sepolto il corpo del drago Tarantasio?",
+    "A": "Sotto un ponte di Lodi",
+    "B": "Sull’isoletta del lago",
+    "C": "Sotto il Duomo di Milano",
+    "rispostaCorretta": "B",
+  },
+  {
+    "domanda": "Come era fatto, secondo le credenze dell’epoca, il drago Tarantasio che dimorava nel lago Gerundo?",
+    "A": "Era un brontosauro come quello del lago scozzese di Loch Ness",
+    "B": "Era un T-Rex",
+    "C": "Era un serpente alato",
+    "rispostaCorretta": "C"
+  },
+  {
+    "domanda": "Intorno all’anno Mille, secondo la leggenda, nel lago Gerundo viveva un drago, un enorme biscione che faceva strage di uomini e bambini. Ma un eroe, della futura dinastia dei Visconti, riuscì a sconfiggere il rettile. Dove venne raffigurato per preservare la memoria dell’impresa?",
+    "A": "Sullo stemma dei Visconti di Milano",
+    "B": "Sullo scudo dei cavalieri crociati",
+    "C": "È diventato il logo della casa automobilistica FIAT",
+    "rispostaCorretta": "A"
+  },
+  {
+    "domanda": "Da chi nel Medioevo fu prosciugato e bonificato l’antico lago Gerundo?",
+    "A": "Dai cavalieri crociati",
+    "B": "Dai Visconti",
+    "C": "Dai monaci del luogo",
+    "rispostaCorretta": "C"
+  },
+  {
+    "domanda": "Esiste ancora il lago Gerundo?",
+    "A": "Appare solo se usi la fantasia",
+    "B": "Si, è segnalato sulle carte geografiche della Lombardia",
+    "C": "Si, la zona è stata nuovamente allagata per creare un parco giochi interattivo",
+    "rispostaCorretta": "A"
+  },
+  {
+    "domanda": "Lodi possiede ancora un importante edificio costruito dalla famiglia nobile dei Visconti: di che tipo di struttura si tratta?",
+    "A": "Una villa con piscina",
+    "B": "Una Torre",
+    "C": "Un castello",
+    "rispostaCorretta": "C"
+  },
+  {
+    "domanda": "Varie ipotesi fantasiose vedono l’origine del nome “Gerundo” nel greco “Acheròn”, il fiume dell’oltretomba, l’Acheronte: perché questo paragone?",
+    "A": "Perché si pensava che le paludi del lago fossero malsane e portatrici di morte",
+    "B": "Perché antiche pergamene segnavano il Lago Gerundo come il luogo d’ingresso nel regno dei morti",
+    "C": "Perché chi osava navigare nelle sue acque non tornava più",
+    "rispostaCorretta": "A"
+  },
+  {
+    "domanda": "Nella zona di Lodi molti paesi di origine medievale sono stati inseriti nel Guinness dei primati italiani con un nome caratteristico, quale?",
+    "A": "Paesi nobili",
+    "B": "Quartieri",
+    "C": "Borghi",
+    "rispostaCorretta": "C"
+  },
+  {
+    "domanda": "Su quale via d’acqua sorge Lodi?",
+    "A": "Lago Gerundo",
+    "B": "Fiume Adda",
+    "C": "Fiume Po",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "Lodi ha origini medioevali ma in realtà sorge su rovine di origine romana. Chi fu il famoso personaggio storico che la rase al suolo per poi ricostruirla?",
+    "A": "L’Imperatore Nerone",
+    "B": "L’Imperatore Federico Barbarossa",
+    "C": "L’architetto Renzo Piano",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "Le rovine romane su cui è sorta Lodi in realtà esistono ancora, un antico borgo vicino, infatti ne è la testimonianza, dato che dopo il passaggio di Barbarossa, gli abitanti lo ricostruirono. Come si chiama questo borgo?",
+    "A": "Ludamus",
+    "B": "Lodi Vecchio",
+    "C": "Laus Antica",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "Dato il tipo di territorio pianeggiante e agricolo, Lodi è attualmente importante per un settore all’avanguardia, quale?",
+    "A": "Industrie legate al latte e al formaggio",
+    "B": "Polo lombardo di biotecnologie alimentari",
+    "C": "Aziende di produzione di draghi in scatola",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "Dove un tempo si estendeva il grande Lago Gerundo, attualmente cosa possiamo trovare?",
+    "A": "I fiumi Adda e Serio",
+    "B": "Il fiume Lambro",
+    "C": "La pianura padana",
+    "rispostaCorretta": "C"
+  },
+  {
+    "domanda": "Lodi è una delle province lombarde. Quante sono in tutto?",
+    "A": "9",
+    "B": "12",
+    "C": "110",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "La zona di Lodi deve il suo nome ad un popolo germanico guerriero, ma rispettoso della natura, quale?",
+    "A": "I Prodi Lombardi",
+    "B": "I Lanzichenecchi",
+    "C": "I Longobardi",
+    "rispostaCorretta": "C"
+  },
+  {
+    "domanda": "Nel territorio lodigiano, oltre all’Adda, è presente un altro corso d’acqua, quale?",
+    "A": "Il lago Gerundo",
+    "B": "Il fiume Po",
+    "C": "Il fiume Lambro",
+    "rispostaCorretta": "C"
+  },
+  {
+    "domanda": "Nel Lodigiano, nel 2018, si è costituito il comune di Castelgerundo per unire 2 centri piccolissimi della zona. Perché si è scelto proprio questo nome?",
+    "A": "In onore del drago Tarantasio",
+    "B": "Si è voluta ricordare la leggenda del lago Gerundo",
+    "C": "I sindaci del posto non avevano altre idee",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "A Lodi si mangia un tipico piatto di carne di manzo, qual è?",
+    "A": "Trippa",
+    "B": "Pollo arrosto",
+    "C": "Bistecca di drago",
+    "rispostaCorretta": "A"
+  },
+  {
+    "domanda": "Quali attuali fiumi erano gli immissari dell’antico Lago Gerundo?",
+    "A": "Brembo, Serio, Adda",
+    "B": "Po, Adda, Serio",
+    "C": "Serio, Adda",
+    "rispostaCorretta": "C"
   }
   ]
