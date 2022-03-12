@@ -5,14 +5,13 @@
   "B": "Sant’Honoré",
   "C": "Sant’Agostino",
   "rispostaCorretta": "C"
-},
-  {
-
-"domanda": "Nel Duomo di Monza è esposta una famosa corona usata da re e imperatori: quale?",
-"A": "La corona ferrea",
-"B": "La corona d’alloro",
-"C": "La corona dentale",
-"rispostaCorretta": "A"
+ },
+ {
+  "domanda": "Nel Duomo di Monza è esposta una famosa corona usata da re e imperatori: quale?",
+  "A": "La corona ferrea",
+  "B": "La corona d’alloro",
+  "C": "La corona dentale",
+  "rispostaCorretta": "A"
 },
   {
 "domanda": "Nel 1777, Ferdinando d’Asburgo conferì all’architetto Giuseppe Piermarini, l’incarico di realizzare quale famoso palazzo di Monza circondato da un meraviglioso parco?",
@@ -46,7 +45,6 @@
 "rispostaCorretta": "C"
 },
   {
-
 "domanda": "Secondo la leggenda, pare che il fantasma della regina Teodolinda, che regnò a Monza fra il 570 e il 602, si aggiri per le strade della città. Dove è stato avvistato spesso il nobile e romantico spirito?",
 "A": "Sotto le finestre dell’ufficio del Sindaco",
 "B": "Nella vasca da bagno del Sindaco",
