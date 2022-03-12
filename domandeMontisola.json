@@ -1,0 +1,40 @@
+[
+  {
+    "domanda": "Con quale mezzo è assolutamente vietato sportarsi all’interno di Monte Isola?",
+    "A": "In bici",
+    "B": "In auto",
+    "C": "In elicottero",
+    "rispostaCorretta": "B"
+  },
+  
+  {
+    "domanda": "Con quali mezzi è possibile raggiungere Monte Isola e spostarsi al suo interno?",
+    "A": "In autobus e a nuoto",
+    "B": "In treno e in barca",
+    "C": "In barca e a piedi",
+    "rispostaCorretta": "C"
+  },
+  
+  {
+    "domanda": "Secondo la leggenda, nel lago d’Iseo, al cui centro si erge Monte Isola, è pericoloso fare il bagno il 29 giugno, giorno dedicato alla festa di San Pietro. Sembra che nelle sue acque si nasconda una donna malvagia che in quel giorno preciso, tutti gli anni scatena violenti temporali e si aggira sul fondo del lago per afferrare le gambe dei bagnanti tentando di trascinare con sé almeno un’anima all’inferno. Di chi si tratta, sempre secondo la leggenda?",
+    "A": "Della madre di San Pietro",
+    "B": "Della moglie di Satana",
+    "C": "Della sorella dello zio di Uberto Visconti",
+    "rispostaCorretta": "A",
+    "curiosita": "A quanto pare la madre di San Pietro durante tutta la sua vita non fece mai una buona azione e quando morì, finì direttamente all’Inferno. San Pietro riuscì ad ottenere di trasportarla in Paradiso e venne così gettata una lunga corda che dal Paradiso arrivò fino all’Inferno. La donna tentò di arrampicarsi per raggiungere il figlio, ma, mentre saliva, si attaccarono alla corda altre anime dannate bramose di uscire dall’Inferno. Lei se ne accorse, e anziché aiutarle, cercò di scacciarle con tanto furore che scivolò con loro nuovamente all’Inferno. La fune venne ritirata, e da allora lei vaga rabbiosa sul fondo del lago."
+  },
+  
+  {
+    "domanda": "Nel 2016 l’installazione “The Floating Piers”, realizzata usando una rete di pontili galleggianti ricoperti da tessuto giallo oro, collegò Monte Isola a un’altra isola adiacente e alla terraferma. Chi è stata la coppia di artisti ideatori di questa struttura “land art”?",
+    "A": "Gae Aulenti e Renzo Piano",
+    "B": "Christo e Leanne-Claude",
+    "C": "Le Corbusier e Dragonelle",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "Montisola vanta un primato tre la isole lacustri. Quale?",
+    "A": "È la più grande d’Europa",
+    "B": "È la più grande d’Italia",
+    "C": "È l'isola con più draghi",
+    "rispostaCorretta": "B"
+ ]
