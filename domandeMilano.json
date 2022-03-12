@@ -1,0 +1,48 @@
+[
+  {
+    "domanda": "A Milano, l’immagine di Tarantasio, la puoi vedere riprodotta un po’ ovunque. Ma, c’è un “arredo urbano” particolare, di cui spesso i milanesi e i turisti usufruiscono soprattutto nei mesi più caldi, che raffigura la testa del famoso drago. Quale?",
+    "A": "Panchine",
+    "B": "Lampioni",
+    "C": "Fontanelle",
+    "rispostaCorretta": "C",
+    "curiosita": "Le 586 fontanelle di Milano sono chiamate in vari modi tra cui “draghi verdi” perché il bellissimo rubinetto in ottone da cui sgorga l’acqua ha la forma di una testa di drago e il colore della colonnina è di un bel verde intenso."
+  },
+  {
+    "domanda": "Sai dirmi cos’è la Ciribiciaccola",
+    "A": "Una femmina di drago",
+    "B": "Una torta tipica di Milano",
+    "C": "La torre campanaria dell’Abbazia di Chiaravalle",
+    "rispostaCorretta": "C",
+    "curiosita": "Ciribiciaccola è il nome con il quale viene indicata la torre campanaria dell’Abbazia di Chiaravalle, poco fuori Milano. La torre ospita la più antica campana della diocesi ancora oggi azionata manualmente dai monaci cistercensi."
+  },
+  {
+    "domanda": "Come si chiama, a Milano, il sistema di canali artificiali e navigabili, costruiti tra il XII e XVI secolo, a scopo difensivo, per fornire l’acqua al centro della città e per il trasporto delle merci?",
+    "A": "Torrenti",
+    "B": "Navigli",
+    "C": "Fontanili",
+    "rispostaCorretta": "B"
+  },
+   {
+    "domanda": "Erano i mezzi di trasporto più comuni dei Navigli milanesi e non solo: collegavano città e paesi portando persone, lettere e notizie, a partire dalla fine del Settecento. Di cosa stiamo parlando?",
+    "A": "Barchètt",
+    "B": "Battelli a vapore",
+    "C": "Draghe",
+    "rispostaCorretta": "A"
+  },
+   {
+    "domanda": "In pieno centro a Milano c’è una chiesa con un fascino molto particolare. Si tratta di S.Bernardino alle Ossa, costruita nel medioevo x ricordare i morti di peste e di lebbra. Perché è così “speciale”?",
+    "A": "Fanno la raccolta di ossa per Halloween",
+    "B": "Le pareti sono composte da ossa e teschi",
+    "C": "Ogni volta che muore qualcuno, lo mettono lì",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "Come vengono soprannominati i vigili urbani a Milano?",
+    "A": "Ghisa",
+    "B": "Ferragnez",
+    "C": "Tolla",
+    "rispostaCorretta": "A",
+    "curiosita": "Il soprannome deriva da quello che si pensava fosse il materiale, la ghisa appunto, con cui erano confezionati i primi elmetti. Il corpo dei “ghisa” venne costituito nel giugno del 1860, poco dopo la fine della dominazione austriaca, per riportare un po’ di ordine pubblico in città"
+  }
+ ]
+    
