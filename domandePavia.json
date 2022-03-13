@@ -1,0 +1,45 @@
+[
+  {
+    "domanda": "Parte da Canterbury, in Inghilterra e arriva fino a Roma percorrendo oltre 3000 km. Entrando in Lombardia attraversa tutta Pavia, continua verso il lodigiano e guada il Po per entrare in Emilia Romagna. Di quale famosa via di pellegrinaggi stiamo parlando?",
+    "A": "La via Lattea",
+    "B": "La via Francigena",
+    "C": "Il cammino di Santiago",
+    "rispostaCorretta": "B",
+    "curiosita": "La via Francigena, Francisca o Romea, è parte di un fascio di percorsi, detti anche vie romee, che dall'Europa occidentale, conducevano nel Sud Europa fino a Roma proseguendo poi verso la Puglia, dove vi erano i porti d'imbarco per la Terra santa , meta di pellegrini e di crociati"
+  },
+  {
+    "domanda": "Pavia si adagia sulle sponde di un fiume. Quale?",
+    "A": "Po",
+    "B": "Ticino",
+    "C": "Rio Grande",
+    "rispostaCorretta" "B"
+  },
+  {
+    "domanda": "Pavia, città longobarda e centro culturale rinascimentale è celebre per la sua università fondata nel 1361 da Galeazzo II Visconti. Tra i corsi di laurea più ambiti ce n’è uno in particolare. Quale tra questi?",
+    "A": "Medicina",
+    "B": "Scienze occulte",
+    "C": "Pozioni",
+    "rispostaCorretta": "A"
+  },
+  {
+    "domanda": "Nella zona di Pavia si coltiva un cereale tipico anche del tropico umido, quale?",
+    "A": "Il riso",
+    "B": "La manioca",
+    "C": "La tapioca",
+    "rispostaCorretta": "A"
+  },
+  {
+    "domanda": "Il caratteristico Ponte Coperto di Pavia, che collega il centro storico con il pittoresco quartiere di Borgo Ticino, ha origini romane, ma fu ricostruito sui suoi ruderi nel 1351 per venire poi abbattuto durante i bombardamenti della seconda guerra mondiale. Quello attuale, concepito come una copia di quello storico, quando venne inaugurato?",
+    "A": "2020",
+    "B": "1951",
+    "C": "1920",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "Anche il ponte di Pavia ha la sua leggenda. Si narra sia stato eretto dal diavolo in persona che nella notte di Natale del 999, tentò di ingannare alcuni pellegrini, costruendo il ponte in cambio della prima anima che lo avrebbe attraversato. L’Arcangelo Gabriele riuscì ad ingannare il diavolo facendo passare per primo un caprone. Con quale nome viene anche chiamato il ponte?",
+    "A": "Ponte del diavolo",
+    "B": "Ponte dell’Angelo",
+    "C": "Ponte del caprone",
+    "rispostaCorretta": "A"
+  }
+]
