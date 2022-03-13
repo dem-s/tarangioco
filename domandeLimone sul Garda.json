@@ -1,0 +1,30 @@
+[
+  {
+    "domanda": "La cittadina di Limone si trova sul bacino d’acqua più esteso d’Italia, quale?",
+    "A": "Fiume Sarca-Mincio",
+    "B": "Lago di Garda",
+    "C": "Lago Gerundo",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "È l’unico luogo dell’Italia settentrionale dove può crescere spontaneamente un agrume. Quale?",
+    "A": "Cedro",
+    "B": "Bergamotto",
+    "C": "Limone",
+    "rispostaCorretta": "C"
+  },
+  {
+    "domanda": "Come si chiama l’insieme delle piante di limoni?",
+    "A": "Agrumeto",
+    "B": "Dragonaia",
+    "C": "Limonaia",
+    "rispostaCorretta": "C"
+  },
+  {
+    "domanda": "La ciclopista del Garda è un percorso ciclopedonale che, partendo da Limone, segue la riva del lago, fino a…",
+    "A": "Riva del Garda",
+    "B": "Gardaland",
+    "C": "Milano",
+    "rispostaCorretta": "A"
+  }
+]
