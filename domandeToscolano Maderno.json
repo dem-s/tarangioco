@@ -1,0 +1,37 @@
+[
+  {
+    "domanda": "Toscolano Maderno sorge sulle sponde del lago di Garda. In origine si trattava di due paesi differenti: Toscolano e Maderno. Nel 1300 questi due borghi erano rinomati per la produzione di un materiale fondamentale per la stampa. Quale?",
+    "A": "Riso",
+    "B": "Penne stilografiche",
+    "C": "Carta",
+    "rispostaCorretta": "C"
+  },
+  {
+    "domanda": "Le botteghe di Toscolano e Maderno realizzavano una carta di eccellente qualità. Ma qual è il nome corretto di queste botteghe?",
+    "A": "Cartolerie",
+    "B": "Cartiere",
+    "C": "Cartine",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "In questi luoghi sopravvive una leggenda legata a un santo di nome Ercolano che era Vescovo di Brescia intorno all’anno 570. Quando morì le sue spoglie furono contese tra gli abitanti della riviera per cui, secondo la leggenda, furono poste in una barca che fu abbandonata in balìa delle onde e del vento. Dove approdò il giorno successivo?",
+    "A": "Nel lago Gerundo",
+    "B": "Nel golfo di Maderno",
+    "C": "Non approdò in nessun luogo e la barca non venne mai ritrovata",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "La carta nel medioevo si realizzava “riciclando” gli stracci, per farli macerare e ridurre in una pasta adatta ad essere lavorata serviva molta acqua. A Toscolano e Maderno sorsero quindi moltissimi mulini. Come venivano chiamati comunemente?",
+    "A": "Sgarrupoli",
+    "B": "Strizza stracci",
+    "C": "Ruote da carta",
+    "rispostaCorretta": "C"
+  },
+  {
+    "domanda": "A metà del XVII° secolo, una terribile epidemia portò al collasso la quasi totalità dell’attività cartaria perché gran parte della popolazione fu decimata ma anche perché si pensava che gli stracci (materia prima) fossero un veicolo di contagio. Di che epidemia si trattava?",
+    "A": "Aviaria",
+    "B": "Peste",
+    "C": "Covid 19",
+    "rispostaCorretta": "B"
+  }
+]
