@@ -1,0 +1,32 @@
+[
+  {
+    "domanda": "Come si chiama il fiume su cui si adagia San Pellegrino?",
+    "A": "Adda",
+    "B": "Brembo",
+    "C": "Gerundo",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "Qual è la maggiore attrazione turistica della zona?",
+    "A": "La corsa con il drago che si tiene ogni anno sul finire dell’estate",
+    "B": "Le terme",
+    "C": "Centro storico",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "Moltissimi edifici di San Pellegrino sono realizzati secondo i criteri di un movimento culturale molto particolare, che si sviluppò in tutta Europa tra la fine dell’800 e l’inizio del 900 e influenzò arte, architettura e filosofia. Come viene definito questo stile?",
+    "A": "Futurismo",
+    "B": "Stile Liberty",
+    "C": "Naif",
+    "rispostaCorretta": "B",
+    "curiosita": "Il Grand Hotel, il Casinò Municipale e l’edificio delle Terme sono importanti esempi di architettura Liberty che si possono ammirare a San Pellegrino"
+  },
+  {
+    "domanda": "A San Pellegrino esiste uno stabilimento che da oltre 120 anni imbottiglia un composto chimico fondamentale per la salute. Di cosa si tratta?",
+    "A": "Della Coca-Cola",
+    "B": "Dell’acqua",
+    "C": "Della bava di lumaca",
+    "rispostaCorretta": "B",
+    "curiosita": "L’acqua minerale nasce dalle sorgenti della Val Brembana, ai piedi delle alpi e, dal 1899, viene imbottigliata presso lo stabilimento di San Pellegrino"
+  }
+]
