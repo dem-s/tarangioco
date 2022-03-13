@@ -1,0 +1,37 @@
+[
+  {
+    "domanda": "La Val Camonica, a differenza degli altri luoghi nominati in questo gioco, non è né un paese né una città ma una vera e propria valle. La segnaliamo perché proprio dalle numerose incisioni rupestri di questi luoghi deriva il logo della Regione Lombardia. Come è stata chiamata la famosa incisione a cui si ispira il suddetto logo?",
+    "A": "Croce Draga",
+    "B": "Stella di Natale",
+    "C": "Rosa Camuna",
+    "rispostaCorretta": "C"
+},
+{
+"domanda": "Grazie alla sua particolarità, come viene definita questa bellissima valle?",
+"A": "Valle dei Segni",
+"B": "Valle dei Draghi",
+"C": "Valle dei Sogni",
+"rispostaCorretta": "A"},
+{
+"domanda": "*Qual è la via d’acqua che percorre la Val Camonica?",
+"A": "Il fiume Adda",
+"B": "Il fiume Oglio",
+"C": "Il fiume Chiese",
+"rispostaCorretta": "B"
+},
+{
+"domanda": "La Val Camonica è da sempre sinonimo di cultura, arte e storia ed è conosciuta in tutto il mondo per le incisioni rupestri. Infatti, nel 1979 è entrata a far parte di cosa?",
+"A": "Della Walk of Fame di Hollywood",
+"B": "Del Guinness dei Primati",
+"C": "Del Patrimonio Mondiale dell’Unesco",
+"rispostaCorretta": "C"
+},
+{
+"domanda": "Quale significato si pensa che avesse in origine il segno rupestre che noi oggi chiamiamo “Rosa Camuna”?",
+"A": "È probabilmente legato al sole",
+"B": "Si pensa fosse un fiore",
+"C": "Era il simbolo delle donne",
+"rispostaCorretta": "A",
+"curiosita": "L&#39;interpretazione, che non è facile per un segno che appartiene a una cultura passata e ormai perduta, suggerisce che la &quot;Rosa Camuna&quot; avesse in origine un significato legato al sole, sviluppatosi poi in un simbolo più ampio di portafortuna.",
+}
+]
