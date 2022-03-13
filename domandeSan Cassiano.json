@@ -24,6 +24,41 @@
     "curiosita": "Dritto al cuore, dalla freccia scoccata dal pescatore."
   },
   {
+    "domanda": "Cosa hanno messo “in moto”, da sempre, le acque della zona?",
+    "A": "I mulini",
+    "B": "Le dighe",
+    "C": "Le stelle",
+    "rispostaCorretta": "A"
+  },
+  {
+    "domanda": "Perché la farina macinata in questa zona è chiamata di grano saraceno?",
+    "A": "Perché è scura",
+    "B": "Perché è grossa",
+    "C": "Perché è fine",
+    "rispostaCorretta": "A"
+  },
+  {
+    "domanda": "Cosa si prepara con la farina scura ed il formaggio della zona?",
+    "A": "Riso cacio e pepe",
+    "B": "Polenta taragna",
+    "C": "Pasta al sugo",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "San Cassiano è una frazione di Prata Camportaccio. In epoca romana, da qui passava una via consolare che metteva in comunicazione Milano con Landau, in Germania, attraversando il passo dello Spluga. Quale era il nome della strada?",
+    "A": "Via del Santo",
+    "B": "Via Spluga",
+    "C": "Via Emilia",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "Pizzo, Porettina, Tanno e Malaguardia. A chi o cosa si riferiscono questi nomi?",
+    "A": "Sono i nomi di quattro briganti che abitavano a San Cassiano",
+    "B": "Sono le principali frazioni minori che insieme a San Cassiano formano il comune di Prata Camportaccio",
+    "C": "Sono i nomi di draghi che infestarono la zona per molti secoli",
+    "rispostaCorretta": "B"
+  },
+  {
     "domanda": "Nel Medioevo si riteneva che uno tra questi tre anfibi nascesse direttamente dalle fiamme del fuoco, quale?",
     "A": "La salamandra",
     "B": "Il drago",
