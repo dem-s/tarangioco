@@ -1,0 +1,37 @@
+[
+  {
+    "domanda": "Pasturo produce molto formaggio. Come si chiama il luogo in cui il latte viene lavorato e trasformato?",
+    "A": "Fabbrica",
+    "B": "Caseificio",
+    "C": "Supermercato",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "Come si chiama il formaggio D.O.P. di Pasturo?",
+    "A": "Pecorino",
+    "B": "Mortadella",
+    "C": "Taleggio",
+    "rispostaCorretta": "C"
+  },
+  {
+    "domanda": "Cosa significa D.O.P.?",
+    "A": "Denominazione di Origine Controllata",
+    "B": "Denominazione di Origine Protetta",
+    "C": "Denominazione di Origine Padana",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "Una piccola valle vicino a Pasturo ha lo stesso nome del suo formaggio. Quale?",
+    "A": "Valsassina",
+    "B": "Val Draghina",
+    "C": "Val Taleggio",
+    "rispostaCorretta": "C",
+  },
+  {
+    "domanda": "Il piccolo paese di Pasturo viene citato in uno dei più famosi romanzi italiani come paese di origine del personaggio di Agnese, madre di Lucia, protagonista femminile della storia. Di quale romanzo si tratta?",
+    "A": "Don Chisciotte",
+    "B": "Delitto e castigo",
+    "C": "I promessi sposi",
+    "rispostaCorretta": "C"
+  }
+]
