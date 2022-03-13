@@ -1,0 +1,31 @@
+[
+  {
+    "domanda": "Che cos’è la Mandragola di Livigno?",
+    "A": "Un mostro fantastico che vive nei corsi d’acqua",
+    "B": "Una pianta carnivora originaria dell’Africa",
+    "C": "Il nome scientifico del drago Tarantasio",
+    "rispostaCorretta": "A",
+    "curiosita": "Secondo le leggende locali, la mandrágola è un mostro fantastico delle acque, evocato per tenere lontano i bambini dai pericoli dei corsi d’acqua e dai pozzi. Si diceva spesso “La mandrágola da la cisc’tèrna”, la mandragola del pozzo. A Livigno veniva segnalata in più punti lungo il corso dell’Aqua Granda, mentre nella vicina Trepalle si diceva che dimorasse nella zona sottostante la Palazzina."
+  },
+  {
+    "domanda": "Data la sua posizione, è famoso per gare sportive invernali. Di quale sport si tratta?",
+    "A": "Sci di fondo e sci alpinismo",
+    "B": "Nuoto",
+    "C": "Caccia al drago",
+    "rispostaCorretta": "A"
+  },
+  {
+    "domanda": "Da decenni, Livigno, per la sua vicinanza al confine, gode di una particolare agevolazione fiscale. Come viene definita?",
+    "A": "Zona a Statuto Gerundo",
+    "B": "Zona Franca",
+    "C": "Paradiso fiscale",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "Un dato rilevato da uno studio condotto tra il 1991 e il 2007 fa notare come nelle alture di Livigno sia stato registrato un calo del 48,6% in un determinato aspetto ambientale, a causa del surriscaldamento globale - quale tra questi?",
+    "A": "Biodiversità delle specie animali",
+    "B": "Frequenza di insediamenti di draghi",
+    "C": "Presenza di ghiacciai",
+    "rispostaCorretta": "C"
+  }
+]
