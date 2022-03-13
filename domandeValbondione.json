@@ -1,0 +1,38 @@
+[
+  {
+"domanda": "A Valbondione c’è la cappella dei Lisander. Costruita nel 1988 è dedicata alla Madonna della montagna e affrescata con dipinti che raffigurano due santi. Uno è sant’Alessandro, l’altro è quel santo che viene ricordato spesso per aver combattuto contro i draghi. Di chi si tratta?",
+"A": "Santo Taranto",
+"B": "San Giorgio",
+"C": "San Giovanni",
+"rispostaCorretta": "B"
+},
+{
+"domanda": "Pizzo Coca, Redorta e Scais, chiamati anche più comunemente “giganti delle Orobie”. Di chi o cosa si tratta? A",
+"A": "Di un gruppo di montagne",
+"B": "Di tre draghi che misero a ferro e fuoco Valbondione nel medioevo",
+"C": "Sono i nomi di tre varietà di fiori",
+"rispostaCorretta": "A"
+},
+{
+"domanda":"Valbondione è nota per un fenomeno naturale molto pittoresco che coinvolge le acque del fiume Serio. Sai dire di cosa si tratta?",
+"A": "Lungo il percorso il fiume forma delle cascate",
+"B": "Lungo il percorso il fiume scompare nel sottosuolo",
+"C": "Non esiste nessun fiume, il Serio non attraversa Valbondione",
+"rispostaCorretta": "A"
+},
+{
+  "domanda": "Chi è o cos’è il capù?",
+"A": "Il nome dialettale che viene dato al sindaco di Valbondione",
+"B": "Involtini di verza",
+"C": "Il drago che abitava questi luoghi",
+"rispostaCorretta": "B",
+"curiosita": "I capù (in italiano “capponi”) sono involtini di verza tipici della provincia di Bergamo e diffusi particolarmente nell’alta Valle Seriana, realizzati con un ripieno di carne macinata, uova, pan grattato e cotechino."
+},
+{
+"domanda": "Valbondione prende il nome dal principale affluente del Serio, il Bondione. La prima volta che questa denominazione compare è in un documento del 774, firmato da chi?",
+"A": "Carlo Magno",
+"B": "Alessandro Magno",
+"C": "Magno Tanto",
+"rispostaCorretta": "A"
+}
+]
