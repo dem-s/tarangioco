@@ -1,0 +1,38 @@
+[
+  {
+    "domanda": "Vicino a quale lago si trova la città di Varese?",
+"A": "Al lago Gerundo",
+"B": "Al lago di Varese",
+"C": "Al lago di Garda",
+"rispostaCorretta": "B"
+},
+{
+  "domanda": "Varese, data la sua posizione geografica, confina con uno stato straniero. Quale?",
+"A": "Germania",
+"B": "Svizzera",
+"C": "Francia",
+"rispostaCorretta": "B"
+},
+{
+  "domanda": "Varese, ha un soprannome che nasce dalla presenza di numerose ville e giardini che si trovano sia nell’ambito del comune che nel circondario. Sai dire come viene chiamata?",
+"A": "Varesotto",
+"B": "Città giardino",
+"C": "Villa giardino",
+"rispostaCorretta": "B"
+},
+{
+  "domanda": "10 scudetti italiani, 5 Coppe dei Campioni, 2 Coppe delle Coppe e 3 Coppe Intercontinentali. Varese ha una grande tradizione che la lega ad uno sport, sai dire quale?",
+"A": "Rugby",
+"B": "Tennis",
+"C": "Pallacanestro",
+"rispostaCorretta": "C",
+"curiosita": "Alla storia della Pallacanestro Varese sono legati i nomi di grandi giocatori della pallacanestro italiana e mondiale, tra cui annoveriamo Dino e Andrea Meneghin"
+},
+{
+  "domanda": "Samuel Butler (padre del romanzo Erewhon) una volta scrisse: «Pare che gli italiani non possano guardare un posto elevato senza desiderare di metterci qualcosa in cima, e poche volte l&#39;hanno fatto più felicemente che … ». Con l’indicazione di quale luogo vicino a Varese, termina la frase?",
+"A": "…al Sacro Monte di Varese",
+"B": "…nella pianura Padana",
+"C": "… al lago Gerundo",
+"rispostaCorretta": "A"
+}
+]
