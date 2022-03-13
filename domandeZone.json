@@ -1,0 +1,38 @@
+[
+  {
+    "domanda": "Richiamano l’Egitto, ma si trovano a Zone…",
+"A": "Sfingi",
+"B": "Piramidi",
+"C": "Tombe",
+"rispostaCorretta": "B"
+},
+{
+  "domanda": "Come si chiamano le sculture di pietra erose che hanno reso famosa Zone?",
+"A": "Piramidi di terra",
+"B": "Sfingi di terra",
+"C": "Montagne di terra",
+"rispostaCorretta": "A"
+},
+{
+  "domanda": "A Zone si trovano le famose Piramidi di erosione. Come si sono formate?",
+"A": "Artificialmente, grazie al lavoro di milioni di persone al servizio del loro faraone",
+"B": "Naturalmente, grazie all’evoluzione geologica",
+"C": "Artificialmente, grazie al lavoro dei sette draghi celesti",
+"rispostaCorretta": "B"
+},
+{
+  "domanda": "Le piramidi di terra di Zone sono costituite fondamentalmente da colonne di argilla sulla cui sommità sono rimasti appoggiati dei grossi massi. La Piramide più imponente presenta un&#39;altezza di circa 30 metri e un diametro alla base di 8 metri. Che diametro ha il masso che la sovrasta?",
+"A": "1 metro e mezzo",
+"B": "4 metri",
+"C": "125 metri",
+"rispostaCorretta": "B"
+},
+{
+  "domanda": "Con quale altro nome sono conosciute le piramidi di terra?",
+"A": "Torri di Gaudì",
+"B": "Escrementi di terra",
+"C": "Camini delle fate",
+"rispostaCorretta": "C",
+"curiosita": "Queste formazioni rocciose sono denominate “fatate”, in quanto secondo la leggenda i massi sulla sommità furono posati da divinità celesti"
+}
+]
