@@ -1,0 +1,39 @@
+[
+  {
+    "domanda": "Centro industriale di rilievo nazionale, Vigevano è nota per essere stata a lungo uno dei principali centri di produzione mondiale di un oggetto che indossiamo ogni giorno per andare in giro. Quale?",
+"A": "Scarpe",
+"B": "Pigiami",
+"C": "Coperte",
+"rispostaCorretta": "A"
+},
+{
+"domanda": "All’interno del castello Sforzesco di Vigevano trova posto un museo particolare istituito negli anni ’50. Quali oggetti sono esposti?",
+"A": "Draghi di cristallo",
+"B": "Lattine di tonno",
+"C": "Scarpe",
+"rispostaCorretta": "C",
+"curiosita": "Il Museo Internazionale della Calzatura fu istituito per iniziativa dello storico vigevanese Luigi Barni e fu dedicato a Pietro Bertolini, primo donatore di una notevole collezione di calzature provenienti da tutto il mondo. Il Museo conserva calzature rappresentative dell&#39;evoluzione della scarpa nelle diverse epoche storiche."
+},
+{
+  "domanda": "È lunga 134 metri e larga 48, è circondata dalla torre viscontea realizzata da Bramante, dal palazzo ducale, da palazzi nobiliari, e dalla facciata della cattedrale. Costruita per volere di Ludovico il Moro su disegno di Leonardo Da Vinci, di cosa sitiamo parlando?",
+"A": "Palazzina dei Conti",
+"B": "Piazza Ducale",
+"C": "Palazzo Visconti",
+"rispostaCorretta": "B"
+},
+{
+  "domanda": "Durante il periodo sforzesco, Vigevano raggiunse il suo periodo di massimo splendore, divenendo una delle residenze ducali. Gli Sforza, nel 1347, fecero costruire una possente strada che collegava il Castello alla Rocca scavalcando le case del borgo. Che particolarità aveva (e ha tuttora) questa strada?",
+"A": "Era una strada coperta",
+"B": "Era una strada asfaltata",
+"C": "Era una strada realizzata con ossa di drago",
+"rispostaCorretta": "A",
+"curiosita": "Risposta A: La strada coperta, chiamata anche strada serrata o pensile, ha proporzioni gigantesche: è lunga 167 metri, larga 7 e supera un dislivello di 10 metri. Fu realizzata per consentire ai signori di Milano di entrare e uscire dal Castello senza essere visti dagli abitanti del borgo, e di fuggire in caso di pericoli incombenti."
+},
+{
+  "domanda": "In un’ala del castello di Vigevano erano situati gli appartamenti della duchessa Beatrice d’Este. Dopo la sua morte, l’ala non fu più abitata, o per meglio dire non da esseri viventi, perché una leggenda vuole che, nelle calde notti estive, gli spiriti delle dame di corte di Beatrice amino passeggiare nei loggiati degli appartamenti femminili del castello. Di chi era moglie Beatrice D’Este?",
+"A": "Di Bramante",
+"B": "Di Leonardo Da Vinci",
+"C": "Di Ludovico il Moro",
+"rispostaCorretta": "C"
+}
+]
