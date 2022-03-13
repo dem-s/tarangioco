@@ -12,6 +12,7 @@
     "A": "Del solito San Giorgio",
     "B": "Di un anziano e coraggioso pescatore",
     "C": "Di un bambino",
+    "rispostaCorretta": "B",
     "curiosita": "Risposta B: il più anziano dei pescatori, preso il coraggio a due mani si mise in barca e si portò proprio al centro del lago. Attese, finché il drago emerse, proprio alle sue spalle. Il pescatore prese un arco, che teneva sul fondo della barca, prese la mira e scoccò il colpo."
   },
   {
@@ -19,6 +20,7 @@
     "A": "Dritto al cuore",
     "B": "Sul tallone", 
     "C": "Sul naso",
+    "rispostaCorretta": "A",
     "curiosita": "Dritto al cuore, dalla freccia scoccata dal pescatore."
   },
   {
@@ -26,6 +28,7 @@
     "A": "La salamandra",
     "B": "Il drago",
     "C": "Il tritone",
+    "rispostaCorretta": "A",
     "curiosita": "La salamandra era associata al fuoco per via dei suoi colori vividi e perché le sue ghiandole cutanee possono secernere una sostanza irritante per le mucose. Questa sostanza rappresenta una difesa contro i predatori ma non è pericolosa per gli uomini se non si mettono le mani in bocca o sugli occhi. Inoltre, poiché la salamandra vive in ambienti umidi e tranquilli spesso si nasconde dentro i tronchi abbandonati che venivano raccolti per alimentare il fuoco. Quando il ceppo veniva gettato tra le fiamme la salamandra usciva per cercare una via di fuga e sembrava esser “nata” dalle fiamme stesse."
   }
 ]
