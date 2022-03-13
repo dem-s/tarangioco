@@ -1,0 +1,37 @@
+[
+  {
+    "domanda": "Quali sono le vie d’acqua presenti a Lecco?",
+    "A": "Lago di Pusiano",
+    "B": "Fiume Adda e lago",
+    "C": "Lago di Como",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "Nel centro storico di Lecco ci sono ancora il Palazzo e la Torre della famiglia milanese che la dominava nel Cinquecento il cui nome è indissolubilmente legato alla leggenda di Tarantasio. Di chi si tratta?",
+    "A": "I Visconti",
+    "B": "I Gucci",
+    "C": "I Montezemolo",
+    "rispostaCorretta": "A"
+  },
+  {
+    "domanda": "Alessandro Manzoni scrisse un famoso romanzo sullo sfondo del lago di Lecco: quale?",
+    "A": "Io Robot",
+    "B": "I Promessi Sposi",
+    "C": "La Divina Commedia",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "Quanto è lungo il fiume Adda, che, tra le altre, attraversa anche la città di Lecco?",
+    "A": "0 km e 52 metri",
+    "B": "313 km",
+    "C": "8500 km",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "Verso la fine del Settecento, da Lecco in direzione Milano, partiva la “corriera”, un’imbarcazione fluviale, che nonostante il carico, non fu mai attaccata dai draghi. Cosa trasportava?",
+    "A": "Pesce fresco, vitelli, verdura e frutta",
+    "B": "Metalli preziosi",
+    "C": "Dischi in vinile",
+    "rispostaCorretta": "A"
+  }
+]
