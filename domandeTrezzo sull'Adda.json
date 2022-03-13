@@ -1,40 +1,40 @@
 [
   {
     "domanda": "Nel Cinquecento un famosissimo scienziato e pittore progettò le chiuse sull’Adda. Di chi si tratta?",
-"A": "Alessandro Volta",
-"B": "Bramante",
-"C": "Leonardo da Vinci",
-"rispostaCorretta": "C"
-},
-{
-  "domanda": "A chi appartiene il castello di Trezzo sull’Adda?",
-"A": "Al drago Tarantasio",
-"B": "Agli abitanti di Trezzo",
-"C": "Ai Visconti, signori di Milano",
-"rispostaCorretta": "C"
-},
-{
-"domanda": "Il castello di Trezzo aveva un elemento architettonico che per l’epoca (anno 1370) era un’opera di ingegneria notevole. Di cosa si trattava?",
-"A": "Di un ponte",
-"B": "Di una prigione aerea per draghi",
-"C": "Di una copertura a pannelli solari",
-"rispostaCorretta": "A",
-"curiosita": "Il ponte del castello che attraversava l&#39;Adda era a campata unica di 72 metri, alto 25 metri sul pelo dell&#39;acqua, fortificato e costruito su tre livelli per consentire il passaggio separato di carri e pedoni, per i tempi era il ponte più lungo del mondo ad una singola arcata.",
-},
-{
-"domanda": "Adiacente a Trezzo, il Villaggio di Crespi d’Adda, nel 1995 viene incluso tra i siti Unesco. Con quale motivazione?",
-"A": "Perché di valore assoluto nell’ambito dei siti di archeologia industriale",
-"B": "Perché vi si trovano molteplici resti di code e artigli di drago",
-"C": "Perché è bello e si trova sul fiume Adda",
-"rispostaCorretta": "A",
-"curiosita": "Crespi d’Adda, undicesimo sito in Italia, terzo in Lombardia, quinto al mondo per l’archeologia industriale, viene dichiarato “un esempio eccezionale del fenomeno dei villaggi operai, che vide la luce in Europa e nell’America del Nord tra il diciannovesimo ed il ventesimo secolo, espressione della filosofia predominante tra gli industriali illuminati nei riguardi dei loro operai”",
-},
-{
-"domanda": "Che tipo di industria, inaugurata il 25 luglio 1878, diede vita al successivo insediamento del villaggio operaio di Crespi d’Adda?",
-"A": "Un cantiere navale",
-"B": "Un cotonificio",
-"C": "Uno stabilimento aeronautico",
-"rispostaCorretta": "B",
-"curiosita": "Il cotonificio Crespi propone alle masse rurali, spesso sulla soglia della miseria, la definitiva conversione dall’agricoltura all’industria. E per rendere invitante la proposta, garantisce condizioni, salari e servizi migliori di quanto promesso da altre iniziative imprenditoriali. Quanti accolgono l’invito di Crespi, si trasferiscono nell’omonimo villaggio, in alloggi dedicati e ad affitto concordato."
-}
-]
+    "A": "Alessandro Volta",
+    "B": "Bramante",
+    "C": "Leonardo da Vinci",
+    "rispostaCorretta": "C"
+  },
+  {
+    "domanda": "A chi appartiene il castello di Trezzo sull’Adda?",
+    "A": "Al drago Tarantasio",
+    "B": "Agli abitanti di Trezzo",
+    "C": "Ai Visconti, signori di Milano",
+    "rispostaCorretta": "C"
+  },
+  {
+    "domanda": "Il castello di Trezzo aveva un elemento architettonico che per l’epoca (anno 1370) era un’opera di ingegneria notevole. Di cosa si trattava?",
+    "A": "Di un ponte",
+    "B": "Di una prigione aerea per draghi",
+    "C": "Di una copertura a pannelli solari",
+    "rispostaCorretta": "A",
+    "curiosita": "Il ponte del castello che attraversava l&#39;Adda era a campata unica di 72 metri, alto 25 metri sul pelo dell&#39;acqua, fortificato e costruito su tre livelli per consentire il passaggio separato di carri e pedoni, per i tempi era il ponte più lungo del mondo ad una singola arcata.",
+  },
+  {
+    "domanda": "Adiacente a Trezzo, il Villaggio di Crespi d’Adda, nel 1995 viene incluso tra i siti Unesco. Con quale motivazione?",
+    "A": "Perché di valore assoluto nell’ambito dei siti di archeologia industriale",
+    "B": "Perché vi si trovano molteplici resti di code e artigli di drago",
+    "C": "Perché è bello e si trova sul fiume Adda",
+    "rispostaCorretta": "A",
+    "curiosita": "Crespi d’Adda, undicesimo sito in Italia, terzo in Lombardia, quinto al mondo per l’archeologia industriale, viene dichiarato “un esempio eccezionale del fenomeno dei villaggi operai, che vide la luce in Europa e nell’America del Nord tra il diciannovesimo ed il ventesimo secolo, espressione della filosofia predominante tra gli industriali illuminati nei riguardi dei loro operai”",
+  },
+  {
+    "domanda": "Che tipo di industria, inaugurata il 25 luglio 1878, diede vita al successivo insediamento del villaggio operaio di Crespi d’Adda?",
+    "A": "Un cantiere navale",
+    "B": "Un cotonificio",
+    "C": "Uno stabilimento aeronautico",
+    "rispostaCorretta": "B",
+    "curiosita": "Il cotonificio Crespi propone alle masse rurali, spesso sulla soglia della miseria, la definitiva conversione dall’agricoltura all’industria. E per rendere invitante la proposta, garantisce condizioni, salari e servizi migliori di quanto promesso da altre iniziative imprenditoriali. Quanti accolgono l’invito di Crespi, si trasferiscono nell’omonimo villaggio, in alloggi dedicati e ad affitto concordato."
+  }
+ ]
