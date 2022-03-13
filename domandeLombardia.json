@@ -1,0 +1,131 @@
+[
+{"domanda": "Cornello dei Tasso è una frazione di Camerata Cornello, in Val Brembana. È un paese da favola vietato alle auto, che custodisce la storia della famiglia dei Tasso. Perché, oltre ad aver dato i natali a Torquato Tasso, questa storica famiglia di imprenditori è celebre in tutto il mondo?",
+"A": "Per aver creato il primo sistema postale intorno al 1400",
+"B": "Perché il figlio maggiore, trasferitosi in America, diede vita al sistema del Pony Express",
+"C": "Perché il più piccolo dei figli, Giorgio Tasso, divenne santo",
+"rispostaCorretta": "A"
+},
+{
+"domanda": "Tarantasio ha deciso di fare un tuffo per rinfrescarsi un po’ dopo aver messo a ferro e fuoco alcune città, ma non tutti i laghi sono abbastanza abissali da poterlo accogliere. Sai dire, dei tre che ti propongo, qual è quello più profondo?",
+"A": "Lago Maggiore",
+"B": "Lago di Como",
+"C": "Lago di Garda",
+"rispostaCorretta": "B",
+"curiosita": "Il Lago di Como è quello più profondo con una media di 161m, raggiungendo il valore massimo a 418m"
+},
+{
+"domanda": "Tarantasio ha voglia di arrosto! Sai indicargli le tre città con il maggior numero di abitanti?",
+"A": "Milano, Brescia, Como",
+"B": "Milano, Brescia, Monza",
+"C": "Milano, Brescia, Bergamo",
+"rispostaCorretta": "B",
+"curiosita": "Risposta B: Milano con quasi 1.400.000 abitanti, Brescia con oltre 200.000 abitanti e Monza che conta circa 123.500 abitanti."
+},
+{
+"domanda": "Oggi il nostro amico drago è stanco e ha deciso di prendere il treno. Devi sapere che la seconda linea ferroviaria nata in Italia si trova proprio in Lombardia ed è stata inaugurata nell’agosto del 1840. Quale? Per rispondere correttamente ricorda che il tragitto non è molto lungo…",
+"A": "Linea Milano – Treviglio",
+"B": "Linea Milano – Pavia",
+"C": "Linea Milano – Monza",
+"rispostaCorretta": "C",
+"curiosita": "Il primo treno percorse i 15 km del tragitto in soli 17 minuti con una velocità di 46 km all’ora"
+},
+{
+"domanda": "Nel Medioevo si riteneva che uno tra questi tre anfibi nascesse direttamente dalle fiamme del fuoco, quale?",
+"A": "La salamandra",
+"B": "Il drago",
+"C": "Il tritone",
+"rispostaCorretta": "A",
+"curiosita": "La salamandra era associata al fuoco per via dei suoi colori vividi. Inoltre, spesso si nasconde dentro tronchi cavi che venivano raccolti per alimentare il fuoco. Quando il ceppo veniva gettato tra le fiamme la salamandra usciva per cercare una via di fuga e sembrava esser “nata” dalle fiamme stesse"
+},
+{
+"domanda": "In Lombardia ci sono molte vie d’acqua, quali sono i principali laghi?",
+"A": "Maggiore, Bracciano, Idro, Ledro, Lugano, Garda",
+"B": "Maggiore, Como/Lecco, Garda, Iseo, Idro",
+"C": "Maggiore, Garda, Trasimeno, Iseo, Idro, Como/Lecco",
+"rispostaCorretta": "B"
+},
+{
+"domanda": "Quali sono i 3 principali canali o navigli nel territorio milanese?",
+"A": "Naviglio dell’Adda, Naviglio Ticinese, Naviglio Pavese",
+"B": "Naviglio Grande, della Martesana, Naviglio Pavese",
+"C": "Naviglio Ticinese, Naviglio dell’Adda, Naviglio sull’Oglio",
+"rispostaCorretta": "B"
+},
+{
+"domanda": "Da dove nascono i fiumi lombardi?",
+"A": "Dalle Prealpi lombarde",
+"B": "Dalle valli svizzere",
+"C": "Dalle Alpi Retiche",
+"rispostaCorretta": "C"
+},
+{
+"domanda": "Che nome prende il fiume Mincio quando forma il lago di Garda?",
+"A": "Mincio",
+"B": "Chiese",
+"C": "Sarca",
+"rispostaCorretta": "C"
+},
+{
+"domanda": "Che lago forma il fiume Chiese?",
+"A": "Lago d’Iseo",
+"B": "Nessuno",
+"C": "Lago d’Idro",
+"rispostaCorretta": "C"
+},
+{
+"domanda": "I fiumi lombardi sono stati, sono e saranno una risorsa di valore inestimabile da tutti i punti di vista, ma c’è un settore economico che non viene sfruttato ancora, a differenza di altri territori europei, quale?",
+"A": "Sport",
+"B": "Turismo",
+"C": "Agroalimentare",
+"rispostaCorretta": "B"
+},
+{
+"domanda": "È uno strumento musicale, ma è anche una sigla di un importante organizzazione lombarda che agisce sul territorio per salvaguardare l’ambiente. Indovina il nome.",
+"A": "P.I.A.N.O.",
+"B": "A.R.P.A.",
+"C": "S.A.X.",
+"rispostaCorretta": "B"
+},
+{
+"domanda": "La Pianura Padana, distesa di strade, campi e città, incastonata tra Alpi ed Appennini, è una delle zone più inquinate di tutto il pianeta. Ad oggi il livello di inquinamento che curva sta seguendo?",
+"A": "Invariata, è tutto uguale a qualche decennio fa",
+"B": "Sta migliorando",
+"C": "Sta peggiorando",
+"rispostaCorretta": "B"
+},
+{
+"domanda": "Quali fiumi attuali erano gli immissari dell’antico Lago Gerundo?",
+"A": "Brembo, Serio, Adda",
+"B": "Po, Adda, Serio",
+"C": "Serio, Adda",
+"rispostaCorretta": "C"
+},
+{
+"domanda": "A Maccastorna, il comune meno popoloso della provincia di Lodi (60 abitanti circa), l’edificio più imponente è il cosiddetto “castello dei 70 fantasmi”, teatro di una vicenda molto macabra: la notte del 24 luglio 1406, narra la leggenda, il signore di Cremona, i suoi fratelli ed i suoi uomini di fiducia vennero uccisi da alcuni contendenti. Dove furono gettati i corpi dei 70 uomini, che ancora oggi si dice, terrorizzino i visitatori?",
+"A": "Nel fiume più vicino",
+"B": "Nel pozzo del castello",
+"C": "In una fossa comune",
+"rispostaCorretta": "B"
+},
+{
+"domanda": "La leggenda della principessa del Lago Gerundo narra la storia di una fuga. Una giovane nobildonna, per scappare dalla devastazione messa in atto a Crema da Federico Barbarossa, decise di attraversare le paludi del Gerundo, insieme ad alcuni servi. Giunta al largo, la barca cominciò a caricare acqua: i servi si gettarono nelle fetide acque del lago paludoso, ma la principessa rimase a bordo, saldamente. Cosa accadde?",
+"A": "La donna pregò la Madonna, che accolse la sua richiesta e guidò la barca fino a riva",
+"B": "Essendo diminuito il peso del trasporto, la barca si stabilizzò e la principessa riuscì a salvarsi",
+"C": "Non sapendo nuotare, affondò insieme alla barca e non fu mai più ritrovata",
+"rispostaCorretta": "A"
+},
+{
+"domanda": "Il Lago Gerundo è stato il soggetto di un’opera d’arte (pluripremiata) realizzata da un professore di Treviglio, nel 1968, “Alla ricerca del Lago Gerundo”. Di cosa si tratta?",
+"A": "Di una mostra fotografica",
+"B": "Di un’installazione ludica interattiva",
+"C": "Di un film",
+"rispostaCorretta": "C"
+},
+{
+"domanda": "Da dove deriva il nome Gerundo? Prova ad indovinare quale tra queste derivazioni semantiche è errata.",
+"A": "Dal latino “gaerum”, cioè “palude”",
+"B": "Dal termine dialettale “gèra”, ovvero “ghiaia”",
+"C": "Da “gyrus”, che significa “curva” o “spira”",
+"rispostaCorretta": "A"
+}
+]
