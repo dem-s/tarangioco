@@ -1,0 +1,46 @@
+[
+  {
+    "domanda": "A pochi chilometri da Sondrio, il paese di Berbenno, è famoso per la leggenda del drago di Roccascissa. Fatto di ferro forgiato nel fuoco, venne messo a guardia di uno dei suoi castelli da Goffredo De’ Capitanei, con l’ordine di incenerire chiunque si fosse avvicinato. Ubbidiente agli ordini del suo creatore diede però fuoco a chi?",
+    "A": "Allo stesso Goffredo",
+    "B": "Alla moglie arrivata in visita",
+    "C": "A tutto il suo esercito",
+    "rispostaCorretta": "B",
+    "curiosita": "Accadde che la moglie, non vedendolo da tempo, pensò di fargli visita di sorpresa. Era l’unica persona che Goffredo amava, gli avrebbe fatto sicuramente piacere. Si presentò, dunque, sotto le mura del castello, con l’intento di annunciarsi al marito. Ma non fece neppure in tempo ad allungare la mano verso il battente del possente portone che un torrente di fuoco la incenerì. Il drago aveva eseguito l’ordine."
+  },
+  {
+    "domanda": "L’alluvione del 1987 che ha colpito Sondrio e tanti altri paesi della Valtellina è stata una delle più terribili tra le cosiddette “tragedie naturali” che spesso si verificano in Lombardia e in tutta Italia, causando enormi danni economici e ambientali. Con che termine si indica correttamente l’insieme di frane, alluvioni, esondazioni che mettono a forte rischio un territorio?",
+    "A": "Zampata di drago",
+    "B": "Dissesto idrogeologico",
+    "C": "Catastrofe geomorfologica",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "Come si chiama la valle attraversata dal fiume Adda?",
+    "A": "Val Cavallina",
+    "B": "Valtellina",
+    "C": "Val Draghina",
+    "rispostaCorretta": "B"
+  },
+  {
+    "doomanda": "Come si chiama il primo piatto fatto con la farina scura, eccellenza gastronomica della valle?",
+    "A": "Spaghetti all’amatriciana",
+    "B": "Pesce in carpione",
+    "C": "Pizzoccheri di grano saraceno",
+    "rispostaCorretta": "C"
+  },
+  {
+    "domanda": "Valtellina e Valmalenco costituirono un importantissimo corridoio di passaggio alpino: cosa e chi collegavano?",
+    "A": "Gli alpeggi",
+    "B": "Genti, merci, nazioni",
+    "C": "Mari e monti",
+    "rispostaCorretta": "B"
+  },
+  {
+    "domanda": "Carlo Cattaneo scrive nelle sue pagine degli “Scritti sulla Lombardia” che gli alpigiani della Valtellina sentivano in certi luoghi montani qualcosa chiamato da loro “Solènch”, di cosa si trattava?",
+    "A": "Una voce spaventosa nelle caverne buie",
+    "B": "Il rumore dello sbattere delle ali dei draghi",
+    "C": "Ansia e timore di fronte a luoghi solitari",
+    "rispostaCorretta": "C",
+    "curiosita": "Il “solengo” è un subitaneo brivido di paura, un sentimento di smarrimento profondo, forse anche di terrore. Non si annuncia, non cresce poco a poco, irrompe senza preannunciarsi, come un improvviso baluginare nel cielo. Poi, così come repentinamente è venuto, altrettanto repentinamente se ne va.",
+  }
+]
